@@ -1,0 +1,27 @@
+
+Tut.png
+size: 298,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 2, 2
+  size: 119, 119
+  orig: 121, 121
+  offset: 1, 1
+  index: -1
+tut1
+  rotate: false
+  xy: 2, 123
+  size: 123, 173
+  orig: 123, 173
+  offset: 0, 0
+  index: -1
+tut2
+  rotate: false
+  xy: 127, 98
+  size: 18, 198
+  orig: 18, 198
+  offset: 0, 0
+  index: -1

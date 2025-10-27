@@ -1,0 +1,83 @@
+
+Treasure.png
+size: 720,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Box_Gold
+  rotate: false
+  xy: 2, 13
+  size: 290, 126
+  orig: 290, 126
+  offset: 0, 0
+  index: -1
+Box_Wood
+  rotate: false
+  xy: 402, 327
+  size: 262, 126
+  orig: 262, 126
+  offset: 0, 0
+  index: -1
+Door_Gold_Close
+  rotate: false
+  xy: 402, 233
+  size: 279, 92
+  orig: 279, 92
+  offset: 0, 0
+  index: -1
+Door_Gold_Open
+  rotate: false
+  xy: 2, 141
+  size: 263, 183
+  orig: 263, 183
+  offset: 0, 0
+  index: -1
+Door_Wood_Close
+  rotate: false
+  xy: 294, 57
+  size: 279, 92
+  orig: 279, 92
+  offset: 0, 0
+  index: -1
+Door_Wood_Open
+  rotate: true
+  xy: 510, 455
+  size: 263, 183
+  orig: 263, 183
+  offset: 0, 0
+  index: -1
+Ef_Neon
+  rotate: false
+  xy: 2, 326
+  size: 398, 188
+  orig: 461, 213
+  offset: 35, 1
+  index: -1
+Ef_Ray
+  rotate: false
+  xy: 2, 516
+  size: 506, 202
+  orig: 541, 210
+  offset: 12, 1
+  index: -1
+Ef_Star
+  rotate: false
+  xy: 402, 455
+  size: 56, 59
+  orig: 60, 62
+  offset: 2, 1
+  index: -1
+Hand_Gold
+  rotate: false
+  xy: 294, 2
+  size: 314, 53
+  orig: 314, 53
+  offset: 0, 0
+  index: -1
+Hand_Wood
+  rotate: false
+  xy: 267, 151
+  size: 317, 80
+  orig: 317, 80
+  offset: 0, 0
+  index: -1

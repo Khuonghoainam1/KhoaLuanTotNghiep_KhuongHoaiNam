@@ -1,0 +1,104 @@
+
+M.png
+size: 636,636
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: false
+  xy: 301, 356
+  size: 284, 278
+  orig: 284, 278
+  offset: 0, 0
+  index: -1
+1/glass_1
+  rotate: true
+  xy: 464, 31
+  size: 78, 50
+  orig: 80, 52
+  offset: 1, 1
+  index: -1
+1/glass_2
+  rotate: false
+  xy: 162, 11
+  size: 78, 50
+  orig: 80, 52
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 63
+  size: 284, 278
+  orig: 284, 278
+  offset: 0, 0
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 343
+  size: 297, 291
+  orig: 304, 297
+  offset: 3, 3
+  index: -1
+die
+  rotate: false
+  xy: 288, 111
+  size: 227, 230
+  orig: 239, 253
+  offset: 1, 11
+  index: -1
+glass_1
+  rotate: false
+  xy: 2, 11
+  size: 78, 50
+  orig: 80, 52
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: false
+  xy: 82, 11
+  size: 78, 50
+  orig: 80, 52
+  offset: 1, 1
+  index: -1
+wing_L_1
+  rotate: true
+  xy: 517, 232
+  size: 122, 79
+  orig: 123, 79
+  offset: 1, 0
+  index: -1
+wing_L_2
+  rotate: true
+  xy: 517, 141
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+wing_L_3
+  rotate: true
+  xy: 383, 31
+  size: 78, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+wing_R_1
+  rotate: false
+  xy: 288, 34
+  size: 93, 75
+  orig: 93, 75
+  offset: 0, 0
+  index: -1
+wing_R_2
+  rotate: false
+  xy: 517, 72
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+wing_R_3
+  rotate: false
+  xy: 587, 569
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1

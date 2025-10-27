@@ -1,0 +1,272 @@
+
+Upgraded_Titan_CameraMan.png
+size: 1000,1000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 765, 2
+  size: 41, 144
+  orig: 41, 144
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 766, 247
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+L_arm_1
+  rotate: true
+  xy: 147, 10
+  size: 53, 142
+  orig: 53, 142
+  offset: 0, 0
+  index: -1
+L_arm_2
+  rotate: true
+  xy: 147, 10
+  size: 53, 142
+  orig: 53, 142
+  offset: 0, 0
+  index: -1
+L_arm_1_fake
+  rotate: true
+  xy: 597, 33
+  size: 77, 166
+  orig: 77, 166
+  offset: 0, 0
+  index: -1
+L_arm_2_fake
+  rotate: true
+  xy: 597, 33
+  size: 77, 166
+  orig: 77, 166
+  offset: 0, 0
+  index: -1
+R_arm_1_fake
+  rotate: true
+  xy: 597, 33
+  size: 77, 166
+  orig: 77, 166
+  offset: 0, 0
+  index: -1
+R_arm_2_fake
+  rotate: true
+  xy: 597, 33
+  size: 77, 166
+  orig: 77, 166
+  offset: 0, 0
+  index: -1
+L_arm_3
+  rotate: false
+  xy: 396, 5
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+L_arm_3_fake
+  rotate: true
+  xy: 472, 6
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+L_leg_1
+  rotate: false
+  xy: 900, 81
+  size: 44, 149
+  orig: 44, 149
+  offset: 0, 0
+  index: -1
+L_leg_2
+  rotate: false
+  xy: 900, 81
+  size: 44, 149
+  orig: 44, 149
+  offset: 0, 0
+  index: -1
+R_leg_1
+  rotate: false
+  xy: 900, 81
+  size: 44, 149
+  orig: 44, 149
+  offset: 0, 0
+  index: -1
+R_leg_2
+  rotate: false
+  xy: 900, 81
+  size: 44, 149
+  orig: 44, 149
+  offset: 0, 0
+  index: -1
+L_leg_3
+  rotate: false
+  xy: 895, 954
+  size: 96, 42
+  orig: 96, 42
+  offset: 0, 0
+  index: -1
+L_wing
+  rotate: false
+  xy: 272, 424
+  size: 211, 572
+  orig: 211, 572
+  offset: 0, 0
+  index: -1
+R_arm_1
+  rotate: true
+  xy: 2, 10
+  size: 53, 143
+  orig: 53, 143
+  offset: 0, 0
+  index: -1
+R_arm_1_fake2
+  rotate: true
+  xy: 765, 45
+  size: 65, 133
+  orig: 65, 154
+  offset: 0, 0
+  index: -1
+R_arm_2_fake2
+  rotate: true
+  xy: 533, 369
+  size: 65, 154
+  orig: 65, 154
+  offset: 0, 0
+  index: -1
+R_arm_3
+  rotate: true
+  xy: 291, 5
+  size: 82, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+R_arm_3_fake
+  rotate: false
+  xy: 485, 869
+  size: 106, 127
+  orig: 106, 127
+  offset: 0, 0
+  index: -1
+R_arm_3_fake2
+  rotate: false
+  xy: 895, 794
+  size: 94, 114
+  orig: 94, 114
+  offset: 0, 0
+  index: -1
+R_leg_1_fake
+  rotate: false
+  xy: 485, 694
+  size: 68, 173
+  orig: 68, 173
+  offset: 0, 0
+  index: -1
+R_leg_2_fake
+  rotate: false
+  xy: 485, 694
+  size: 68, 173
+  orig: 68, 173
+  offset: 0, 0
+  index: -1
+R_leg_3
+  rotate: false
+  xy: 895, 910
+  size: 95, 42
+  orig: 95, 42
+  offset: 0, 0
+  index: -1
+R_leg_3_fake
+  rotate: true
+  xy: 891, 673
+  size: 119, 66
+  orig: 119, 66
+  offset: 0, 0
+  index: -1
+R_wing
+  rotate: false
+  xy: 2, 424
+  size: 268, 572
+  orig: 268, 572
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 911, 232
+  size: 147, 46
+  orig: 147, 47
+  offset: 0, 0
+  index: -1
+block
+  rotate: true
+  xy: 698, 381
+  size: 290, 291
+  orig: 290, 291
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 597, 673
+  size: 205, 292
+  orig: 205, 292
+  offset: 0, 0
+  index: -1
+body_fake
+  rotate: false
+  xy: 302, 106
+  size: 229, 316
+  orig: 229, 316
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 597, 880
+  size: 116, 296
+  orig: 116, 296
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 485, 436
+  size: 211, 235
+  orig: 211, 235
+  offset: 0, 0
+  index: -1
+head_fake
+  rotate: false
+  xy: 533, 112
+  size: 231, 255
+  orig: 231, 255
+  offset: 0, 0
+  index: -1
+skin_1
+  rotate: false
+  xy: 176, 89
+  size: 75, 333
+  orig: 75, 333
+  offset: 0, 0
+  index: -1
+skin_1_fake
+  rotate: false
+  xy: 2, 65
+  size: 99, 357
+  orig: 99, 357
+  offset: 0, 0
+  index: -1
+skin_2
+  rotate: false
+  xy: 253, 89
+  size: 47, 333
+  orig: 47, 333
+  offset: 0, 0
+  index: -1
+skin_2_fake
+  rotate: false
+  xy: 103, 65
+  size: 71, 357
+  orig: 71, 357
+  offset: 0, 0
+  index: -1

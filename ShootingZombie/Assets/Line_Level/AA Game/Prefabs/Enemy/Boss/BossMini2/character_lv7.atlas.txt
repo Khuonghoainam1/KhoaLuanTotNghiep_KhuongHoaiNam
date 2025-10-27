@@ -1,0 +1,132 @@
+
+character_lv7.png
+size: 426,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_arm1
+  rotate: true
+  xy: 2, 2
+  size: 36, 75
+  orig: 38, 77
+  offset: 1, 1
+  index: -1
+R_arm1_fake
+  rotate: true
+  xy: 158, 16
+  size: 44, 83
+  orig: 44, 83
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: true
+  xy: 206, 62
+  size: 43, 90
+  orig: 45, 92
+  offset: 1, 1
+  index: -1
+R_arm2_fake
+  rotate: true
+  xy: 303, 210
+  size: 51, 98
+  orig: 53, 101
+  offset: 1, 2
+  index: -1
+R_arm3
+  rotate: false
+  xy: 298, 33
+  size: 47, 78
+  orig: 49, 80
+  offset: 1, 1
+  index: -1
+R_arm3-1
+  rotate: false
+  xy: 298, 33
+  size: 47, 78
+  orig: 49, 80
+  offset: 1, 1
+  index: -1
+R_arm3_fake
+  rotate: false
+  xy: 345, 122
+  size: 55, 86
+  orig: 57, 88
+  offset: 1, 1
+  index: -1
+R_leg1
+  rotate: false
+  xy: 295, 113
+  size: 48, 95
+  orig: 48, 95
+  offset: 0, 0
+  index: -1
+R_leg1_fake
+  rotate: false
+  xy: 344, 319
+  size: 58, 105
+  orig: 58, 105
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 347, 28
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+R_leg2_fake
+  rotate: true
+  xy: 303, 263
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 158, 80
+  size: 147, 46
+  orig: 147, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 40
+  size: 154, 187
+  orig: 154, 187
+  offset: 0, 0
+  index: -1
+body_fake (2)
+  rotate: false
+  xy: 2, 229
+  size: 163, 195
+  orig: 163, 195
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 79, 14
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 206, 107
+  size: 87, 126
+  orig: 87, 126
+  offset: 0, 0
+  index: -1
+hair_fake
+  rotate: true
+  xy: 167, 235
+  size: 96, 134
+  orig: 96, 134
+  offset: 0, 0
+  index: -1
+vk
+  rotate: false
+  xy: 167, 333
+  size: 175, 91
+  orig: 175, 91
+  offset: 0, 0
+  index: -1

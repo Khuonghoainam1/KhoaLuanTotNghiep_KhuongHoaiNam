@@ -1,0 +1,153 @@
+
+Pistol.png
+size: 642,642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+New folder/ao2
+  rotate: true
+  xy: 168, 28
+  size: 245, 231
+  orig: 246, 231
+  offset: 0, 0
+  index: -1
+New folder/hat2
+  rotate: false
+  xy: 2, 401
+  size: 322, 142
+  orig: 323, 143
+  offset: 0, 1
+  index: -1
+New folder/q3
+  rotate: true
+  xy: 497, 16
+  size: 87, 129
+  orig: 88, 130
+  offset: 0, 1
+  index: -1
+New folder/q33
+  rotate: true
+  xy: 497, 16
+  size: 87, 129
+  orig: 88, 130
+  offset: 0, 1
+  index: -1
+char_red/L_hand
+  rotate: false
+  xy: 565, 198
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_red/L_leg1
+  rotate: false
+  xy: 585, 369
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg1_fake
+  rotate: false
+  xy: 2, 287
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg1_fake
+  rotate: false
+  xy: 2, 287
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/L_leg2
+  rotate: false
+  xy: 585, 275
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg2_fake
+  rotate: false
+  xy: 70, 287
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg2_fake
+  rotate: false
+  xy: 70, 287
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_hand
+  rotate: false
+  xy: 563, 121
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_red/R_leg1
+  rotate: false
+  xy: 401, 11
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/R_leg2
+  rotate: false
+  xy: 449, 11
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/backpack
+  rotate: true
+  xy: 401, 208
+  size: 94, 162
+  orig: 96, 164
+  offset: 1, 1
+  index: -1
+char_red/body
+  rotate: true
+  xy: 326, 304
+  size: 157, 257
+  orig: 157, 257
+  offset: 0, 0
+  index: -1
+char_red/body_fake
+  rotate: true
+  xy: 346, 463
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+char_red/glass
+  rotate: false
+  xy: 168, 301
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 401, 105
+  size: 160, 101
+  orig: 162, 104
+  offset: 2, 3
+  index: -1
+kim
+  rotate: false
+  xy: 2, 545
+  size: 342, 95
+  orig: 342, 95
+  offset: 0, 0
+  index: -1
+vent
+  rotate: true
+  xy: 2, 25
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1

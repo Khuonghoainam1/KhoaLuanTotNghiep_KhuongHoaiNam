@@ -1,0 +1,139 @@
+
+fly_2.png
+size: 792,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fly_2/b_arm
+  rotate: true
+  xy: 362, 56
+  size: 130, 107
+  orig: 130, 107
+  offset: 0, 0
+  index: -1
+fly_2/b_arm_1
+  rotate: true
+  xy: 396, 188
+  size: 130, 108
+  orig: 130, 108
+  offset: 0, 0
+  index: -1
+fly_2/b_arm_2
+  rotate: false
+  xy: 111, 25
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+fly_2/b_arm_2_1
+  rotate: false
+  xy: 694, 413
+  size: 86, 35
+  orig: 86, 35
+  offset: 0, 0
+  index: -1
+fly_2/b_arm_2_fake
+  rotate: false
+  xy: 2, 6
+  size: 107, 55
+  orig: 107, 55
+  offset: 0, 0
+  index: -1
+fly_2/b_arm_fake
+  rotate: false
+  xy: 397, 320
+  size: 150, 128
+  orig: 150, 128
+  offset: 0, 0
+  index: -1
+fly_2/b_hand
+  rotate: false
+  xy: 506, 197
+  size: 123, 115
+  orig: 123, 115
+  offset: 0, 0
+  index: -1
+fly_2/b_hand_1
+  rotate: false
+  xy: 631, 197
+  size: 123, 115
+  orig: 123, 115
+  offset: 0, 0
+  index: -1
+fly_2/b_hand_fake
+  rotate: false
+  xy: 549, 314
+  size: 143, 134
+  orig: 143, 134
+  offset: 0, 0
+  index: -1
+fly_2/body
+  rotate: false
+  xy: 2, 449
+  size: 393, 341
+  orig: 393, 341
+  offset: 0, 0
+  index: -1
+fly_2/body_1
+  rotate: false
+  xy: 397, 450
+  size: 393, 340
+  orig: 393, 340
+  offset: 0, 0
+  index: -1
+fly_2/eye
+  rotate: true
+  xy: 578, 68
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+fly_2/f_arm_1
+  rotate: true
+  xy: 471, 54
+  size: 132, 105
+  orig: 132, 105
+  offset: 0, 0
+  index: -1
+fly_2/f_arm_1_1
+  rotate: false
+  xy: 578, 90
+  size: 132, 105
+  orig: 132, 105
+  offset: 0, 0
+  index: -1
+fly_2/f_arm_1_fake
+  rotate: false
+  xy: 208, 61
+  size: 152, 125
+  orig: 152, 125
+  offset: 0, 0
+  index: -1
+fly_2/f_hand
+  rotate: false
+  xy: 2, 256
+  size: 204, 191
+  orig: 204, 191
+  offset: 0, 0
+  index: -1
+fly_2/f_hand_1
+  rotate: false
+  xy: 2, 63
+  size: 204, 191
+  orig: 204, 191
+  offset: 0, 0
+  index: -1
+fly_2/f_wing
+  rotate: false
+  xy: 208, 318
+  size: 186, 129
+  orig: 186, 129
+  offset: 0, 0
+  index: -1
+fly_2/f_wing_1
+  rotate: false
+  xy: 208, 188
+  size: 186, 128
+  orig: 186, 128
+  offset: 0, 0
+  index: -1

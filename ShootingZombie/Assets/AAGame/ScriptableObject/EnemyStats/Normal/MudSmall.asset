@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fbdc9925cd0eb34eb70983464f153fb, type: 3}
+  m_Name: MudSmall
+  m_EditorClassIdentifier: 
+  enemyStatsNormal:
+  - hp: 375
+    atk: 5
+  - hp: 431
+    atk: 5
+  - hp: 495
+    atk: 5
+  - hp: 569
+    atk: 5
+  - hp: 654
+    atk: 5
+  - hp: 817
+    atk: 5
+  - hp: 1021
+    atk: 5
+  - hp: 1276
+    atk: 5
+  - hp: 1595
+    atk: 5
+  - hp: 1993
+    atk: 5
+  - hp: 2491
+    atk: 5
+  - hp: 3113
+    atk: 5
+  - hp: 3891
+    atk: 5
+  - hp: 4863
+    atk: 5
+  - hp: 6078
+    atk: 5
+  - hp: 7597
+    atk: 5
+  - hp: 9496
+    atk: 5
+  - hp: 11870
+    atk: 5
+  - hp: 14837
+    atk: 5
+  - hp: 18546
+    atk: 5
+  - hp: 23182
+    atk: 5
+  - hp: 28977
+    atk: 5
+  - hp: 36221
+    atk: 5
+  - hp: 45276
+    atk: 5
+  - hp: 56595
+    atk: 5
+  - hp: 70743
+    atk: 5
+  - hp: 88428
+    atk: 5
+  - hp: 110535
+    atk: 5
+  - hp: 138168
+    atk: 5
+  - hp: 172710
+    atk: 5

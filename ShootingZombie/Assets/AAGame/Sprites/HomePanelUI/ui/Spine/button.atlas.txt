@@ -1,0 +1,69 @@
+
+button.png
+size: 560,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_blue_1
+  rotate: false
+  xy: 2, 472
+  size: 257, 83
+  orig: 257, 83
+  offset: 0, 0
+  index: -1
+button_green_1
+  rotate: true
+  xy: 261, 298
+  size: 257, 83
+  orig: 257, 83
+  offset: 0, 0
+  index: -1
+button_red_1
+  rotate: true
+  xy: 2, 213
+  size: 257, 83
+  orig: 257, 83
+  offset: 0, 0
+  index: -1
+button_yellow_1
+  rotate: true
+  xy: 87, 213
+  size: 257, 83
+  orig: 257, 83
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 516, 478
+  size: 39, 77
+  orig: 41, 77
+  offset: 2, 0
+  index: -1
+fx_blue
+  rotate: true
+  xy: 172, 213
+  size: 257, 83
+  orig: 257, 83
+  offset: 0, 0
+  index: -1
+fx_green
+  rotate: false
+  xy: 257, 213
+  size: 257, 83
+  orig: 257, 83
+  offset: 0, 0
+  index: -1
+fx_red
+  rotate: true
+  xy: 346, 298
+  size: 257, 83
+  orig: 257, 83
+  offset: 0, 0
+  index: -1
+fx_yellow
+  rotate: true
+  xy: 431, 298
+  size: 257, 83
+  orig: 257, 83
+  offset: 0, 0
+  index: -1

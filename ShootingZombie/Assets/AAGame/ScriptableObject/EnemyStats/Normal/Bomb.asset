@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fbdc9925cd0eb34eb70983464f153fb, type: 3}
+  m_Name: Bomb
+  m_EditorClassIdentifier: 
+  enemyStatsNormal:
+  - hp: 700
+    atk: 50
+  - hp: 804
+    atk: 52
+  - hp: 924
+    atk: 55
+  - hp: 1062
+    atk: 58
+  - hp: 1221
+    atk: 61
+  - hp: 1526
+    atk: 64
+  - hp: 1907
+    atk: 67
+  - hp: 2383
+    atk: 71
+  - hp: 2978
+    atk: 75
+  - hp: 3722
+    atk: 79
+  - hp: 4652
+    atk: 83
+  - hp: 5815
+    atk: 87
+  - hp: 7268
+    atk: 92
+  - hp: 9085
+    atk: 97
+  - hp: 11356
+    atk: 102
+  - hp: 14195
+    atk: 108
+  - hp: 17743
+    atk: 114
+  - hp: 22178
+    atk: 120
+  - hp: 27722
+    atk: 127
+  - hp: 34652
+    atk: 134
+  - hp: 43315
+    atk: 142
+  - hp: 54143
+    atk: 150
+  - hp: 67678
+    atk: 158
+  - hp: 84597
+    atk: 167
+  - hp: 105746
+    atk: 177
+  - hp: 132182
+    atk: 187
+  - hp: 165227
+    atk: 198
+  - hp: 206533
+    atk: 209
+  - hp: 258166
+    atk: 221
+  - hp: 322707
+    atk: 234

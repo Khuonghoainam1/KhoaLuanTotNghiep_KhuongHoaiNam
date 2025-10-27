@@ -1,0 +1,62 @@
+
+weapon.png
+size: 389,389
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_1
+  rotate: false
+  xy: 2, 148
+  size: 158, 84
+  orig: 160, 86
+  offset: 1, 1
+  index: -1
+box_1_fake
+  rotate: false
+  xy: 180, 291
+  size: 170, 96
+  orig: 173, 100
+  offset: 1, 2
+  index: -1
+dan
+  rotate: true
+  xy: 278, 22
+  size: 55, 95
+  orig: 57, 97
+  offset: 1, 1
+  index: -1
+dan_fake
+  rotate: true
+  xy: 278, 79
+  size: 67, 107
+  orig: 69, 109
+  offset: 1, 1
+  index: -1
+gun_1
+  rotate: false
+  xy: 180, 148
+  size: 164, 141
+  orig: 166, 143
+  offset: 1, 1
+  index: -1
+gun_1_fake
+  rotate: false
+  xy: 2, 234
+  size: 176, 153
+  orig: 178, 155
+  offset: 1, 1
+  index: -1
+gun_2
+  rotate: true
+  xy: 2, 2
+  size: 144, 116
+  orig: 146, 118
+  offset: 1, 1
+  index: -1
+gun_2_fake
+  rotate: false
+  xy: 120, 18
+  size: 156, 128
+  orig: 158, 130
+  offset: 1, 1
+  index: -1

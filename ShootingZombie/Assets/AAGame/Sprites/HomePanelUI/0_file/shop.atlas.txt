@@ -1,0 +1,13 @@
+
+shop.png
+size: 108,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shop
+  rotate: false
+  xy: 2, 8
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1

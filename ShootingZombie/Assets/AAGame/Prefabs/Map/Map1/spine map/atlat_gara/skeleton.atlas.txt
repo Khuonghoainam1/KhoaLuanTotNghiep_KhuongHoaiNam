@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1871,1871
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 1381, 23
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1381, 23
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 1381, 23
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+cot_L
+  rotate: false
+  xy: 1270, 185
+  size: 199, 849
+  orig: 199, 849
+  offset: 0, 0
+  index: -1
+cot_R
+  rotate: true
+  xy: 2, 2
+  size: 195, 834
+  orig: 196, 835
+  offset: 0, 1
+  index: -1
+cua
+  rotate: false
+  xy: 1704, 1152
+  size: 164, 717
+  orig: 164, 718
+  offset: 0, 0
+  index: -1
+cua_gara
+  rotate: false
+  xy: 1538, 1132
+  size: 164, 737
+  orig: 164, 738
+  offset: 0, 0
+  index: -1
+gara_room
+  rotate: false
+  xy: 2, 199
+  size: 1266, 835
+  orig: 1267, 835
+  offset: 0, 0
+  index: -1
+hopcua
+  rotate: true
+  xy: 838, 18
+  size: 179, 429
+  orig: 179, 429
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 1488, 70
+  size: 347, 275
+  orig: 373, 321
+  offset: 0, 46
+  index: -1
+light2
+  rotate: true
+  xy: 1471, 741
+  size: 329, 280
+  orig: 356, 327
+  offset: 27, 47
+  index: -1
+light_center
+  rotate: true
+  xy: 1471, 347
+  size: 392, 275
+  orig: 448, 321
+  offset: 29, 46
+  index: -1
+logoo
+  rotate: false
+  xy: 1381, 78
+  size: 105, 105
+  orig: 107, 107
+  offset: 1, 1
+  index: -1
+logooo
+  rotate: false
+  xy: 1269, 73
+  size: 110, 110
+  orig: 114, 114
+  offset: 2, 2
+  index: -1
+mat
+  rotate: false
+  xy: 2, 1036
+  size: 1336, 833
+  orig: 1336, 835
+  offset: 0, 1
+  index: -1
+quat
+  rotate: false
+  xy: 1340, 1041
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+tuong
+  rotate: false
+  xy: 1340, 1072
+  size: 196, 797
+  orig: 197, 798
+  offset: 1, 1
+  index: -1

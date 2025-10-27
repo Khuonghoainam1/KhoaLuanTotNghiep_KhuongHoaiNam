@@ -1,0 +1,20 @@
+
+time.png
+size: 110,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kim
+  rotate: false
+  xy: 2, 2
+  size: 26, 7
+  orig: 28, 7
+  offset: 1, 0
+  index: -1
+time
+  rotate: false
+  xy: 2, 11
+  size: 83, 97
+  orig: 88, 102
+  offset: 2, 3
+  index: -1

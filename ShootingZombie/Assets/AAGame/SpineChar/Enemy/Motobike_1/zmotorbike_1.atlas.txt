@@ -1,0 +1,202 @@
+
+zmotorbike_1.png
+size: 772,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S9_1
+  rotate: false
+  xy: 179, 17
+  size: 150, 66
+  orig: 150, 68
+  offset: 0, 1
+  index: -1
+S9_2
+  rotate: false
+  xy: 2, 5
+  size: 132, 38
+  orig: 132, 38
+  offset: 0, 0
+  index: -1
+car/motorbike1_1
+  rotate: false
+  xy: 2, 505
+  size: 493, 264
+  orig: 493, 264
+  offset: 0, 0
+  index: -1
+car/motorbike1_2
+  rotate: false
+  xy: 179, 85
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+car/motorbike1_3
+  rotate: false
+  xy: 322, 96
+  size: 158, 123
+  orig: 158, 123
+  offset: 0, 0
+  index: -1
+car/motorbike1_4
+  rotate: true
+  xy: 375, 221
+  size: 103, 106
+  orig: 103, 107
+  offset: 0, 1
+  index: -1
+car/motorbike1_5
+  rotate: true
+  xy: 657, 319
+  size: 161, 110
+  orig: 161, 110
+  offset: 0, 0
+  index: -1
+car/motorbike1_6
+  rotate: false
+  xy: 482, 81
+  size: 103, 71
+  orig: 104, 71
+  offset: 0, 0
+  index: -1
+car/motorbike1_7
+  rotate: false
+  xy: 210, 228
+  size: 163, 96
+  orig: 164, 97
+  offset: 0, 1
+  index: -1
+gun
+  rotate: false
+  xy: 483, 222
+  size: 160, 101
+  orig: 162, 104
+  offset: 2, 3
+  index: -1
+shadow
+  rotate: false
+  xy: 497, 482
+  size: 241, 121
+  orig: 241, 121
+  offset: 0, 0
+  index: -1
+vent
+  rotate: false
+  xy: 497, 605
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1
+zmotorbike1/L_hand
+  rotate: false
+  xy: 539, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+zmotorbike1/L_leg1
+  rotate: false
+  xy: 597, 128
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+zmotorbike1/R_leg1
+  rotate: false
+  xy: 597, 128
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+zmotorbike1/L_leg1_fake
+  rotate: true
+  xy: 331, 28
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+zmotorbike1/R_leg1_fake
+  rotate: true
+  xy: 331, 28
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+zmotorbike1/L_leg2
+  rotate: true
+  xy: 445, 33
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+zmotorbike1/R_leg2
+  rotate: true
+  xy: 445, 33
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+zmotorbike1/L_leg2_fake
+  rotate: true
+  xy: 483, 154
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+zmotorbike1/R_leg2_fake
+  rotate: true
+  xy: 483, 154
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+zmotorbike1/R_hand
+  rotate: false
+  xy: 618, 8
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+zmotorbike1/R_shoe
+  rotate: true
+  xy: 645, 87
+  size: 66, 102
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+zmotorbike1/backpack
+  rotate: false
+  xy: 645, 155
+  size: 94, 162
+  orig: 96, 164
+  offset: 1, 1
+  index: -1
+zmotorbike1/body
+  rotate: false
+  xy: 2, 233
+  size: 206, 270
+  orig: 206, 270
+  offset: 0, 0
+  index: -1
+zmotorbike1/body2
+  rotate: true
+  xy: 489, 325
+  size: 155, 166
+  orig: 155, 166
+  offset: 0, 0
+  index: -1
+zmotorbike1/body_fake
+  rotate: true
+  xy: 210, 326
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+zmotorbike1/body_fake2
+  rotate: false
+  xy: 2, 45
+  size: 175, 186
+  orig: 177, 187
+  offset: 1, 1
+  index: -1

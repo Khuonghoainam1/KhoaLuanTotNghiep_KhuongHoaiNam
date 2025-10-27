@@ -1,0 +1,27 @@
+
+auto.png
+size: 264,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+auto_off
+  rotate: false
+  xy: 2, 173
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+auto_on
+  rotate: false
+  xy: 2, 85
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 2, 2
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1

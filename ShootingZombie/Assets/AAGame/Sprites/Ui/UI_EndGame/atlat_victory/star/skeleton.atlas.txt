@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 587,587
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+victory_anim/star_bg_center
+  rotate: false
+  xy: 2, 366
+  size: 204, 219
+  orig: 205, 220
+  offset: 1, 1
+  index: -1
+victory_anim/star_bg_left
+  rotate: false
+  xy: 208, 407
+  size: 180, 178
+  orig: 181, 179
+  offset: 1, 1
+  index: -1
+victory_anim/star_bg_right
+  rotate: true
+  xy: 212, 230
+  size: 175, 174
+  orig: 175, 174
+  offset: 0, 0
+  index: -1
+victory_anim/star_center
+  rotate: true
+  xy: 2, 171
+  size: 193, 208
+  orig: 193, 208
+  offset: 0, 0
+  index: -1
+victory_anim/star_left
+  rotate: false
+  xy: 212, 59
+  size: 171, 169
+  orig: 171, 169
+  offset: 0, 0
+  index: -1
+victory_anim/star_right
+  rotate: true
+  xy: 2, 2
+  size: 167, 165
+  orig: 167, 165
+  offset: 0, 0
+  index: -1

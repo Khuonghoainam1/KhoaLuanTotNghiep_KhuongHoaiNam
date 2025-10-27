@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fbdc9925cd0eb34eb70983464f153fb, type: 3}
+  m_Name: FlyFar
+  m_EditorClassIdentifier: 
+  enemyStatsNormal:
+  - hp: 175
+    atk: 15
+  - hp: 201
+    atk: 15
+  - hp: 231
+    atk: 15
+  - hp: 265
+    atk: 15
+  - hp: 304
+    atk: 15
+  - hp: 380
+    atk: 15
+  - hp: 475
+    atk: 15
+  - hp: 593
+    atk: 15
+  - hp: 741
+    atk: 15
+  - hp: 926
+    atk: 15
+  - hp: 1157
+    atk: 15
+  - hp: 1446
+    atk: 15
+  - hp: 1807
+    atk: 15
+  - hp: 2258
+    atk: 15
+  - hp: 2822
+    atk: 15
+  - hp: 3527
+    atk: 15
+  - hp: 4408
+    atk: 15
+  - hp: 5510
+    atk: 15
+  - hp: 6887
+    atk: 15
+  - hp: 8608
+    atk: 15
+  - hp: 10760
+    atk: 15
+  - hp: 13450
+    atk: 15
+  - hp: 16812
+    atk: 15
+  - hp: 21015
+    atk: 15
+  - hp: 26268
+    atk: 15
+  - hp: 32835
+    atk: 15
+  - hp: 41043
+    atk: 15
+  - hp: 51303
+    atk: 15
+  - hp: 64128
+    atk: 15
+  - hp: 80160
+    atk: 15

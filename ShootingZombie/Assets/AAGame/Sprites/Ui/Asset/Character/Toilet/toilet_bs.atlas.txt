@@ -1,0 +1,69 @@
+
+toilet_bs.png
+size: 956,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: true
+  xy: 891, 805
+  size: 147, 46
+  orig: 147, 47
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 2, 498
+  size: 452, 454
+  orig: 452, 455
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 891, 752
+  size: 51, 51
+  orig: 52, 51
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 456, 537
+  size: 433, 415
+  orig: 450, 416
+  offset: 2, 0
+  index: -1
+head_fake
+  rotate: true
+  xy: 363, 106
+  size: 390, 362
+  orig: 390, 362
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 727, 107
+  size: 201, 121
+  orig: 202, 123
+  offset: 0, 1
+  index: -1
+jaw_fake
+  rotate: true
+  xy: 727, 310
+  size: 225, 146
+  orig: 225, 146
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 363, 12
+  size: 92, 563
+  orig: 134, 563
+  offset: 21, 0
+  index: -1
+toilet2
+  rotate: false
+  xy: 2, 2
+  size: 359, 494
+  orig: 478, 584
+  offset: 79, 1
+  index: -1

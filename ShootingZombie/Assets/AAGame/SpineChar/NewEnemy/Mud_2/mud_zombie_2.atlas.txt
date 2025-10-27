@@ -1,0 +1,55 @@
+
+mud_zombie_2.png
+size: 832,832
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mud_zombie_2/1
+  rotate: false
+  xy: 2, 39
+  size: 249, 222
+  orig: 249, 222
+  offset: 0, 0
+  index: -1
+mud_zombie_2/2
+  rotate: true
+  xy: 568, 728
+  size: 101, 62
+  orig: 114, 75
+  offset: 13, 6
+  index: -1
+mud_zombie_2/body
+  rotate: false
+  xy: 2, 263
+  size: 564, 566
+  orig: 564, 566
+  offset: 0, 0
+  index: -1
+mud_zombie_2/eye
+  rotate: false
+  xy: 501, 2
+  size: 176, 115
+  orig: 176, 115
+  offset: 0, 0
+  index: -1
+mud_zombie_2/hat
+  rotate: true
+  xy: 253, 47
+  size: 214, 246
+  orig: 214, 246
+  offset: 0, 0
+  index: -1
+mud_zombie_2/mouth
+  rotate: false
+  xy: 501, 119
+  size: 171, 142
+  orig: 171, 142
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 253, 22
+  size: 110, 23
+  orig: 113, 25
+  offset: 1, 0
+  index: -1

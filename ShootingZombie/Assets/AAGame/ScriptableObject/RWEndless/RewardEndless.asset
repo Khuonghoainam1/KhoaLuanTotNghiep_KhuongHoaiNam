@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea009850d8d6364aadd2540b4e2aa03, type: 3}
+  m_Name: RewardEndless
+  m_EditorClassIdentifier: 
+  waveRewardEndlesses:
+  - manhDotPhaMin: 0
+    manhDotPhaMax: 0
+    bua: 2
+  - manhDotPhaMin: 2
+    manhDotPhaMax: 4
+    bua: 3
+  - manhDotPhaMin: 4
+    manhDotPhaMax: 6
+    bua: 4
+  - manhDotPhaMin: 6
+    manhDotPhaMax: 8
+    bua: 5
+  - manhDotPhaMin: 8
+    manhDotPhaMax: 10
+    bua: 6
+  - manhDotPhaMin: 10
+    manhDotPhaMax: 12
+    bua: 7

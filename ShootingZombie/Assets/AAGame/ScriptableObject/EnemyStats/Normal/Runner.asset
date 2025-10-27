@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fbdc9925cd0eb34eb70983464f153fb, type: 3}
+  m_Name: Runner
+  m_EditorClassIdentifier: 
+  enemyStatsNormal:
+  - hp: 420
+    atk: 15
+  - hp: 482
+    atk: 15
+  - hp: 554
+    atk: 15
+  - hp: 637
+    atk: 15
+  - hp: 732
+    atk: 15
+  - hp: 915
+    atk: 15
+  - hp: 1143
+    atk: 15
+  - hp: 1428
+    atk: 15
+  - hp: 1785
+    atk: 15
+  - hp: 2231
+    atk: 15
+  - hp: 2788
+    atk: 15
+  - hp: 3485
+    atk: 15
+  - hp: 4356
+    atk: 15
+  - hp: 5445
+    atk: 15
+  - hp: 6806
+    atk: 15
+  - hp: 8507
+    atk: 15
+  - hp: 10633
+    atk: 15
+  - hp: 13291
+    atk: 15
+  - hp: 16613
+    atk: 15
+  - hp: 20766
+    atk: 15
+  - hp: 25957
+    atk: 15
+  - hp: 32446
+    atk: 15
+  - hp: 40557
+    atk: 15
+  - hp: 50696
+    atk: 15
+  - hp: 63370
+    atk: 15
+  - hp: 79212
+    atk: 15
+  - hp: 99015
+    atk: 15
+  - hp: 123768
+    atk: 15
+  - hp: 154710
+    atk: 15
+  - hp: 193387
+    atk: 15

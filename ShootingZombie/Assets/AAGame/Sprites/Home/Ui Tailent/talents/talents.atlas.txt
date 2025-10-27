@@ -1,0 +1,62 @@
+
+talents.png
+size: 776,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 412, 410
+  size: 77, 99
+  orig: 101, 111
+  offset: 12, 6
+  index: -1
+2
+  rotate: false
+  xy: 412, 309
+  size: 77, 99
+  orig: 101, 111
+  offset: 12, 6
+  index: -1
+helectric
+  rotate: true
+  xy: 208, 287
+  size: 222, 202
+  orig: 227, 207
+  offset: 3, 3
+  index: -1
+helectric2
+  rotate: true
+  xy: 2, 2
+  size: 249, 197
+  orig: 255, 202
+  offset: 3, 3
+  index: -1
+helectric3
+  rotate: true
+  xy: 253, 511
+  size: 262, 166
+  orig: 267, 171
+  offset: 3, 3
+  index: -1
+helectric4
+  rotate: true
+  xy: 2, 253
+  size: 256, 204
+  orig: 262, 209
+  offset: 3, 2
+  index: -1
+helectric5
+  rotate: false
+  xy: 2, 511
+  size: 249, 262
+  orig: 255, 267
+  offset: 2, 2
+  index: -1
+helectric6
+  rotate: false
+  xy: 201, 19
+  size: 211, 232
+  orig: 218, 238
+  offset: 3, 3
+  index: -1

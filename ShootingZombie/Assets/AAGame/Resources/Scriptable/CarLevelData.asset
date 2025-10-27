@@ -1,0 +1,384 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1beddb76464f39e4c95b01a0539809f6, type: 3}
+  m_Name: CarLevelData
+  m_EditorClassIdentifier: 
+  maxDmage: 1727.2625
+  maxHP: 7931.551
+  maxDef: 19.5
+  maxShield: 17
+  maxSlot: 3
+  maxCrit: 6.6725173
+  levelSlot1: 1
+  levelSlot2: 5
+  levelSlot3: 10
+  carLevelDatas:
+  - level: 0
+    skin: 704
+    gun: 300
+    slot: 0
+    exp: 100
+    gold: 1000
+    damage: 30
+    hp: 500
+    crit: 5
+    def: 5
+    expNeedToNewSkin: 100
+    newSkin: 701
+  - level: 1
+    skin: 701
+    gun: 301
+    slot: 1
+    exp: 120.00001
+    gold: 2500
+    damage: 34.5
+    hp: 550
+    crit: 5.05
+    def: 5.5
+    expNeedToNewSkin: 400
+    newSkin: 702
+  - level: 2
+    skin: 701
+    gun: 301
+    slot: 1
+    exp: 144.00002
+    gold: 4000
+    damage: 39.675
+    hp: 605
+    crit: 5.1005
+    def: 6
+    expNeedToNewSkin: 400
+    newSkin: 702
+  - level: 3
+    skin: 701
+    gun: 301
+    slot: 1
+    exp: 172.80002
+    gold: 5500
+    damage: 45.626247
+    hp: 665.5
+    crit: 5.151505
+    def: 6.5
+    expNeedToNewSkin: 400
+    newSkin: 702
+  - level: 4
+    skin: 701
+    gun: 301
+    slot: 1
+    exp: 207.36003
+    gold: 7000
+    damage: 52.470184
+    hp: 732.05
+    crit: 5.20302
+    def: 7
+    expNeedToNewSkin: 400
+    newSkin: 702
+  - level: 5
+    skin: 702
+    gun: 302
+    slot: 2
+    exp: 248.83205
+    gold: 8500
+    damage: 60.34071
+    hp: 805.255
+    crit: 5.25505
+    def: 7.5
+    expNeedToNewSkin: 500
+    newSkin: 703
+  - level: 6
+    skin: 702
+    gun: 302
+    slot: 2
+    exp: 298.59848
+    gold: 10000
+    damage: 69.391815
+    hp: 885.7805
+    crit: 5.3076005
+    def: 8
+    expNeedToNewSkin: 500
+    newSkin: 703
+  - level: 7
+    skin: 702
+    gun: 302
+    slot: 2
+    exp: 358.31818
+    gold: 11500
+    damage: 79.80058
+    hp: 974.3586
+    crit: 5.3606763
+    def: 8.5
+    expNeedToNewSkin: 500
+    newSkin: 703
+  - level: 8
+    skin: 702
+    gun: 302
+    slot: 2
+    exp: 429.98184
+    gold: 13000
+    damage: 91.77067
+    hp: 1071.7944
+    crit: 5.414283
+    def: 9
+    expNeedToNewSkin: 500
+    newSkin: 703
+  - level: 9
+    skin: 702
+    gun: 302
+    slot: 2
+    exp: 515.9782
+    gold: 14500
+    damage: 105.53626
+    hp: 1178.9739
+    crit: 5.4684258
+    def: 9.5
+    expNeedToNewSkin: 500
+    newSkin: 703
+  - level: 10
+    skin: 703
+    gun: 303
+    slot: 3
+    exp: 619.1739
+    gold: 16000
+    damage: 121.3667
+    hp: 1296.8713
+    crit: 5.52311
+    def: 10
+    expNeedToNewSkin: 500
+    newSkin: 700
+  - level: 11
+    skin: 703
+    gun: 303
+    slot: 3
+    exp: 743.00867
+    gold: 17500
+    damage: 139.5717
+    hp: 1426.5585
+    crit: 5.578341
+    def: 10.5
+    expNeedToNewSkin: 500
+    newSkin: 700
+  - level: 12
+    skin: 703
+    gun: 303
+    slot: 3
+    exp: 891.6104
+    gold: 19000
+    damage: 160.50745
+    hp: 1569.2144
+    crit: 5.6341243
+    def: 11
+    expNeedToNewSkin: 500
+    newSkin: 700
+  - level: 13
+    skin: 703
+    gun: 303
+    slot: 3
+    exp: 1069.9325
+    gold: 20500
+    damage: 184.58356
+    hp: 1726.1359
+    crit: 5.6904655
+    def: 11.5
+    expNeedToNewSkin: 500
+    newSkin: 700
+  - level: 14
+    skin: 703
+    gun: 303
+    slot: 3
+    exp: 1283.9191
+    gold: 22000
+    damage: 212.27109
+    hp: 1898.7495
+    crit: 5.7473702
+    def: 12
+    expNeedToNewSkin: 500
+    newSkin: 700
+  - level: 15
+    skin: 700
+    gun: 303
+    slot: 3
+    exp: 1540.703
+    gold: 23500
+    damage: 244.11174
+    hp: 2088.6245
+    crit: 5.804844
+    def: 12.5
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 16
+    skin: 700
+    gun: 303
+    slot: 3
+    exp: 1848.8436
+    gold: 25000
+    damage: 280.7285
+    hp: 2297.487
+    crit: 5.862892
+    def: 13
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 17
+    skin: 700
+    gun: 303
+    slot: 3
+    exp: 2218.6125
+    gold: 26500
+    damage: 322.83774
+    hp: 2527.2358
+    crit: 5.921521
+    def: 13.5
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 18
+    skin: 700
+    gun: 303
+    slot: 3
+    exp: 2662.3352
+    gold: 28000
+    damage: 371.2634
+    hp: 2779.9595
+    crit: 5.9807363
+    def: 14
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 19
+    skin: 700
+    gun: 303
+    slot: 3
+    exp: 3194.8025
+    gold: 29500
+    damage: 426.9529
+    hp: 3057.9556
+    crit: 6.0405436
+    def: 14.5
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 20
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 3833.7632
+    gold: 31000
+    damage: 490.99585
+    hp: 3363.7512
+    crit: 6.100949
+    def: 15
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 21
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 4600.516
+    gold: 32500
+    damage: 564.6452
+    hp: 3700.1265
+    crit: 6.161958
+    def: 15.5
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 22
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 5520.6196
+    gold: 34000
+    damage: 649.342
+    hp: 4070.1392
+    crit: 6.223578
+    def: 16
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 23
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 6624.7437
+    gold: 35500
+    damage: 746.7433
+    hp: 4477.1533
+    crit: 6.285814
+    def: 16.5
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 24
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 7949.693
+    gold: 37000
+    damage: 858.75476
+    hp: 4924.8687
+    crit: 6.348672
+    def: 17
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 25
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 9539.632
+    gold: 38500
+    damage: 987.56793
+    hp: 5417.3555
+    crit: 6.4121585
+    def: 17.5
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 26
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 11447.559
+    gold: 40000
+    damage: 1135.7031
+    hp: 5959.0913
+    crit: 6.47628
+    def: 18
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 27
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 13737.071
+    gold: 41500
+    damage: 1306.0586
+    hp: 6555.0005
+    crit: 6.541043
+    def: 18.5
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 28
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 16484.486
+    gold: 43000
+    damage: 1501.9674
+    hp: 7210.5005
+    crit: 6.606453
+    def: 19
+    expNeedToNewSkin: 500
+    newSkin: 705
+  - level: 29
+    skin: 705
+    gun: 303
+    slot: 3
+    exp: 19781.385
+    gold: 44500
+    damage: 1727.2625
+    hp: 7931.551
+    crit: 6.6725173
+    def: 19.5
+    expNeedToNewSkin: 500
+    newSkin: 705

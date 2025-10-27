@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fbdc9925cd0eb34eb70983464f153fb, type: 3}
+  m_Name: Motobike
+  m_EditorClassIdentifier: 
+  enemyStatsNormal:
+  - hp: 275
+    atk: 25
+  - hp: 316
+    atk: 26
+  - hp: 363
+    atk: 27
+  - hp: 417
+    atk: 28
+  - hp: 479
+    atk: 29
+  - hp: 598
+    atk: 30
+  - hp: 747
+    atk: 31
+  - hp: 933
+    atk: 32
+  - hp: 1166
+    atk: 33
+  - hp: 1457
+    atk: 34
+  - hp: 1821
+    atk: 36
+  - hp: 2276
+    atk: 38
+  - hp: 2845
+    atk: 40
+  - hp: 3556
+    atk: 42
+  - hp: 4445
+    atk: 44
+  - hp: 5556
+    atk: 46
+  - hp: 6945
+    atk: 48
+  - hp: 8681
+    atk: 50
+  - hp: 10851
+    atk: 52
+  - hp: 13563
+    atk: 55
+  - hp: 16953
+    atk: 58
+  - hp: 21191
+    atk: 61
+  - hp: 26488
+    atk: 64
+  - hp: 33110
+    atk: 67
+  - hp: 41387
+    atk: 71
+  - hp: 51733
+    atk: 75
+  - hp: 64666
+    atk: 79
+  - hp: 80832
+    atk: 83
+  - hp: 101040
+    atk: 87
+  - hp: 126300
+    atk: 92

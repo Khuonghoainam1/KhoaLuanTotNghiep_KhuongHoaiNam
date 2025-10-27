@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fbdc9925cd0eb34eb70983464f153fb, type: 3}
+  m_Name: BossWorld_1
+  m_EditorClassIdentifier: 
+  enemyStatsNormal:
+  - hp: 5000
+    atk: 20
+  - hp: 5749
+    atk: 21
+  - hp: 6611
+    atk: 22
+  - hp: 7602
+    atk: 23
+  - hp: 8742
+    atk: 24
+  - hp: 10927
+    atk: 25
+  - hp: 13658
+    atk: 26
+  - hp: 17072
+    atk: 27
+  - hp: 21340
+    atk: 28
+  - hp: 26675
+    atk: 29
+  - hp: 33343
+    atk: 30
+  - hp: 41678
+    atk: 31
+  - hp: 52097
+    atk: 32
+  - hp: 65121
+    atk: 33
+  - hp: 81401
+    atk: 34
+  - hp: 101751
+    atk: 36
+  - hp: 127188
+    atk: 38
+  - hp: 158985
+    atk: 40
+  - hp: 198731
+    atk: 42
+  - hp: 248413
+    atk: 44
+  - hp: 310516
+    atk: 46
+  - hp: 388145
+    atk: 48
+  - hp: 485181
+    atk: 50
+  - hp: 606476
+    atk: 52
+  - hp: 758095
+    atk: 55
+  - hp: 947618
+    atk: 58
+  - hp: 1184522
+    atk: 61
+  - hp: 1480652
+    atk: 64
+  - hp: 1850815
+    atk: 67
+  - hp: 2313518
+    atk: 71

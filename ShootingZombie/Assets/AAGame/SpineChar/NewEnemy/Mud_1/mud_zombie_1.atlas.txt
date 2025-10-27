@@ -1,0 +1,34 @@
+
+mud_zombie_1.png
+size: 716,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mud_zombie_1/body
+  rotate: false
+  xy: 2, 146
+  size: 564, 567
+  orig: 564, 567
+  offset: 0, 0
+  index: -1
+mud_zombie_1/eye
+  rotate: false
+  xy: 175, 29
+  size: 176, 115
+  orig: 176, 115
+  offset: 0, 0
+  index: -1
+mud_zombie_1/mouth
+  rotate: false
+  xy: 2, 2
+  size: 171, 142
+  orig: 171, 142
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 175, 4
+  size: 110, 23
+  orig: 113, 25
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+Zombie_coin.png
+size: 728,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: true
+  xy: 459, 53
+  size: 79, 106
+  orig: 80, 107
+  offset: 1, 0
+  index: -1
+L_leg1
+  rotate: true
+  xy: 342, 18
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: true
+  xy: 342, 18
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+L_leg1_fake
+  rotate: false
+  xy: 602, 177
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_leg1_fake
+  rotate: false
+  xy: 602, 177
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+L_leg2
+  rotate: false
+  xy: 670, 218
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 670, 218
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+L_leg2_fake
+  rotate: true
+  xy: 345, 66
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_leg2_fake
+  rotate: true
+  xy: 345, 66
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_foot
+  rotate: true
+  xy: 567, 80
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+R_foot_fake
+  rotate: false
+  xy: 602, 129
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 245, 29
+  size: 95, 94
+  orig: 96, 94
+  offset: 1, 0
+  index: -1
+backpack1
+  rotate: false
+  xy: 2, 125
+  size: 341, 260
+  orig: 341, 264
+  offset: 0, 1
+  index: -1
+backpack2
+  rotate: false
+  xy: 2, 387
+  size: 355, 338
+  orig: 355, 338
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 359, 291
+  size: 155, 255
+  orig: 155, 255
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 345, 134
+  size: 155, 255
+  orig: 155, 255
+  offset: 0, 0
+  index: -1
+body_fake
+  rotate: false
+  xy: 359, 448
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+body_fake2
+  rotate: false
+  xy: 538, 448
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 670, 189
+  size: 41, 27
+  orig: 42, 28
+  offset: 0, 1
+  index: -1
+glass
+  rotate: true
+  xy: 616, 312
+  size: 134, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 241, 121
+  orig: 241, 121
+  offset: 0, 0
+  index: -1

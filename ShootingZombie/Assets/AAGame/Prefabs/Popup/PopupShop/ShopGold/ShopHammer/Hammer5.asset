@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250cc4bad3351894b88071a69dd919cd, type: 3}
+  m_Name: Hammer5
+  m_EditorClassIdentifier: 
+  itemcell:
+    item: 3502
+    value: 250
+  spriteIcon: {fileID: 21300000, guid: 71ef8f40210e0574898203cf1b99c7eb, type: 3}
+  txtPr: 49.99

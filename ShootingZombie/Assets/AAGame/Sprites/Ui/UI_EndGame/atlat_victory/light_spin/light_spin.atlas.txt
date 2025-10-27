@@ -1,0 +1,13 @@
+
+light_spin.png
+size: 543,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+victory_anim/star_spin
+  rotate: false
+  xy: 2, 2
+  size: 539, 539
+  orig: 549, 549
+  offset: 6, 4
+  index: -1

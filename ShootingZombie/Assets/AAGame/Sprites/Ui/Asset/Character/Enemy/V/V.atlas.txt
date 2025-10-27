@@ -1,0 +1,76 @@
+
+V.png
+size: 628,628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: false
+  xy: 304, 2
+  size: 300, 295
+  orig: 300, 295
+  offset: 0, 0
+  index: -1
+1/glass_1
+  rotate: false
+  xy: 375, 353
+  size: 55, 40
+  orig: 57, 42
+  offset: 1, 1
+  index: -1
+1/glass_2
+  rotate: false
+  xy: 489, 353
+  size: 55, 40
+  orig: 57, 42
+  offset: 1, 1
+  index: -1
+1/glass_3
+  rotate: false
+  xy: 318, 311
+  size: 55, 40
+  orig: 57, 42
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 300, 295
+  orig: 300, 295
+  offset: 0, 0
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 299
+  size: 314, 326
+  orig: 320, 332
+  offset: 3, 3
+  index: -1
+die
+  rotate: false
+  xy: 318, 395
+  size: 227, 230
+  orig: 239, 253
+  offset: 1, 11
+  index: -1
+glass_1
+  rotate: false
+  xy: 318, 353
+  size: 55, 40
+  orig: 57, 42
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: false
+  xy: 432, 353
+  size: 55, 40
+  orig: 57, 42
+  offset: 1, 1
+  index: -1
+glass_3
+  rotate: true
+  xy: 546, 338
+  size: 55, 40
+  orig: 57, 42
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+fx_shop.png
+size: 396,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 360, 355
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1
+fx3
+  rotate: false
+  xy: 2, 38
+  size: 356, 353
+  orig: 361, 361
+  offset: 4, 8
+  index: -1

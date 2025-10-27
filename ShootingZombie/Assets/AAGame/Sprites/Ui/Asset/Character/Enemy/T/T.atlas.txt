@@ -1,0 +1,48 @@
+
+T.png
+size: 628,628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: true
+  xy: 299, 2
+  size: 301, 295
+  orig: 301, 304
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 301, 295
+  orig: 301, 304
+  offset: 0, 0
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 305
+  size: 314, 318
+  orig: 320, 324
+  offset: 3, 3
+  index: -1
+die
+  rotate: false
+  xy: 318, 393
+  size: 227, 230
+  orig: 239, 253
+  offset: 1, 11
+  index: -1
+glass_1
+  rotate: false
+  xy: 318, 335
+  size: 56, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: false
+  xy: 376, 335
+  size: 56, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1

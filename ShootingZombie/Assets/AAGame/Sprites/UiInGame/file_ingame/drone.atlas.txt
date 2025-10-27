@@ -1,0 +1,20 @@
+
+drone.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+drone
+  rotate: false
+  xy: 2, 63
+  size: 324, 297
+  orig: 324, 297
+  offset: 0, 0
+  index: -1
+rotor
+  rotate: false
+  xy: 328, 229
+  size: 32, 131
+  orig: 32, 131
+  offset: 0, 0
+  index: -1

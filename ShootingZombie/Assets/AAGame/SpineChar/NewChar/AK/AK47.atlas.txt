@@ -1,0 +1,454 @@
+
+AK47.png
+size: 956,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AK_1
+  rotate: false
+  xy: 2, 16
+  size: 257, 104
+  orig: 257, 104
+  offset: 0, 0
+  index: -1
+AK_2
+  rotate: false
+  xy: 524, 361
+  size: 275, 95
+  orig: 275, 95
+  offset: 0, 0
+  index: -1
+AK_3
+  rotate: false
+  xy: 536, 591
+  size: 293, 94
+  orig: 293, 94
+  offset: 0, 0
+  index: -1
+AK_4
+  rotate: false
+  xy: 536, 687
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+AK_5
+  rotate: false
+  xy: 524, 458
+  size: 291, 131
+  orig: 291, 131
+  offset: 0, 0
+  index: -1
+AK_6
+  rotate: false
+  xy: 536, 823
+  size: 304, 131
+  orig: 304, 131
+  offset: 0, 0
+  index: -1
+R_foot_fake
+  rotate: true
+  xy: 542, 2
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+R_leg1_fake
+  rotate: false
+  xy: 261, 15
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+R_leg2_fake
+  rotate: false
+  xy: 330, 15
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+char_deadpool/L_hand
+  rotate: false
+  xy: 817, 497
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_flash/L_hand
+  rotate: false
+  xy: 817, 497
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_ironman/L_hand
+  rotate: false
+  xy: 817, 497
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_red/L_hand
+  rotate: false
+  xy: 817, 497
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_spiderman/L_hand
+  rotate: false
+  xy: 817, 497
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_deadpool/R_foot
+  rotate: true
+  xy: 897, 418
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+char_deadpool/R_hand
+  rotate: false
+  xy: 817, 417
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_flash/R_hand
+  rotate: false
+  xy: 817, 417
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_ironman/R_hand
+  rotate: false
+  xy: 817, 417
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_red/R_hand
+  rotate: false
+  xy: 817, 417
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_spiderman/R_hand
+  rotate: false
+  xy: 817, 417
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_deadpool/R_leg1
+  rotate: false
+  xy: 399, 46
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_flash/R_leg1
+  rotate: false
+  xy: 399, 46
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_ironman/R_leg1
+  rotate: false
+  xy: 399, 46
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/R_leg1
+  rotate: false
+  xy: 399, 46
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_deadpool/R_leg2
+  rotate: false
+  xy: 853, 179
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_flash/R_leg2
+  rotate: false
+  xy: 853, 179
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_ironman/R_leg2
+  rotate: false
+  xy: 853, 179
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/R_leg2
+  rotate: false
+  xy: 853, 179
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_deadpool/backpack
+  rotate: false
+  xy: 842, 791
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_flash/backpack
+  rotate: false
+  xy: 842, 791
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_red/backpack
+  rotate: false
+  xy: 842, 791
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_spiderman/backpack
+  rotate: false
+  xy: 842, 791
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_deadpool/body
+  rotate: false
+  xy: 2, 678
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_deadpool/body_die
+  rotate: false
+  xy: 447, 171
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+char_fireman/body_die
+  rotate: false
+  xy: 447, 171
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+char_flash/body_die
+  rotate: false
+  xy: 447, 171
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+char_ironman/body_die
+  rotate: false
+  xy: 447, 171
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+char_red/body_die
+  rotate: false
+  xy: 447, 171
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+char_fireman/L_hand
+  rotate: false
+  xy: 612, 13
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_fireman/R_foot
+  rotate: true
+  xy: 897, 524
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+char_fireman/R_hand
+  rotate: false
+  xy: 692, 13
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_fireman/R_leg1
+  rotate: true
+  xy: 831, 577
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_fireman/R_leg2
+  rotate: true
+  xy: 447, 25
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_fireman/backpack
+  rotate: false
+  xy: 831, 626
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_fireman/body
+  rotate: false
+  xy: 2, 400
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_fireman/hat_1
+  rotate: true
+  xy: 180, 130
+  size: 268, 174
+  orig: 268, 174
+  offset: 0, 0
+  index: -1
+char_fireman/hat_2
+  rotate: true
+  xy: 356, 140
+  size: 258, 89
+  orig: 258, 89
+  offset: 0, 0
+  index: -1
+char_flash/R_foot
+  rotate: false
+  xy: 470, 402
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+char_flash/body
+  rotate: false
+  xy: 180, 678
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_flash/hat
+  rotate: false
+  xy: 612, 93
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1
+char_ironman/R_foot
+  rotate: false
+  xy: 772, 71
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+char_ironman/backpack
+  rotate: true
+  xy: 447, 74
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_ironman/body
+  rotate: false
+  xy: 358, 678
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_red/R_foot
+  rotate: true
+  xy: 897, 471
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+char_red/body
+  rotate: false
+  xy: 2, 122
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_spiderman/R_foot
+  rotate: false
+  xy: 772, 45
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+char_spiderman/R_leg1
+  rotate: true
+  xy: 801, 368
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_spiderman/R_leg2
+  rotate: false
+  xy: 853, 273
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_spiderman/body
+  rotate: false
+  xy: 180, 400
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_spiderman/body_die
+  rotate: false
+  xy: 650, 171
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+glass_2
+  rotate: false
+  xy: 721, 97
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+s9_3
+  rotate: true
+  xy: 833, 145
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 358, 403
+  size: 110, 23
+  orig: 113, 25
+  offset: 1, 0
+  index: -1
+vent
+  rotate: true
+  xy: 358, 428
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1

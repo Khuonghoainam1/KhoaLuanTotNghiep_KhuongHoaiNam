@@ -1,0 +1,132 @@
+
+Bazooka.png
+size: 525,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bazooka1
+  rotate: true
+  xy: 440, 152
+  size: 121, 46
+  orig: 121, 46
+  offset: 0, 0
+  index: -1
+bazooka2
+  rotate: true
+  xy: 321, 138
+  size: 126, 49
+  orig: 126, 49
+  offset: 0, 0
+  index: -1
+char_red/L_hand
+  rotate: false
+  xy: 239, 50
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_red/L_leg1
+  rotate: true
+  xy: 239, 2
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg1_fake
+  rotate: true
+  xy: 125, 14
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg1_fake
+  rotate: true
+  xy: 125, 14
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/L_leg2
+  rotate: true
+  xy: 333, 2
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg2_fake
+  rotate: false
+  xy: 372, 161
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg2_fake
+  rotate: false
+  xy: 372, 161
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_hand
+  rotate: false
+  xy: 316, 50
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_red/R_leg1
+  rotate: false
+  xy: 393, 58
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/R_leg2
+  rotate: false
+  xy: 441, 58
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/backpack
+  rotate: false
+  xy: 125, 82
+  size: 94, 162
+  orig: 96, 164
+  offset: 1, 1
+  index: -1
+char_red/body
+  rotate: false
+  xy: 181, 266
+  size: 157, 257
+  orig: 157, 257
+  offset: 0, 0
+  index: -1
+char_red/body_fake
+  rotate: false
+  xy: 2, 246
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+char_red/glass
+  rotate: true
+  xy: 221, 127
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 3
+  size: 241, 121
+  orig: 241, 121
+  offset: 0, 0
+  index: -1
+vent
+  rotate: true
+  xy: 340, 275
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1

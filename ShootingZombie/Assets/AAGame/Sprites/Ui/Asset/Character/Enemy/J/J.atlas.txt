@@ -1,0 +1,62 @@
+
+J.png
+size: 568,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: true
+  xy: 264, 16
+  size: 257, 260
+  orig: 257, 260
+  offset: 0, 0
+  index: -1
+1/glass_1
+  rotate: true
+  xy: 508, 409
+  size: 77, 57
+  orig: 79, 59
+  offset: 1, 1
+  index: -1
+1/glass_2
+  rotate: false
+  xy: 276, 276
+  size: 77, 57
+  orig: 79, 59
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 16
+  size: 257, 260
+  orig: 257, 260
+  offset: 0, 0
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 275
+  size: 272, 290
+  orig: 279, 296
+  offset: 4, 3
+  index: -1
+die
+  rotate: false
+  xy: 276, 335
+  size: 230, 230
+  orig: 253, 253
+  offset: 12, 11
+  index: -1
+glass_1
+  rotate: true
+  xy: 508, 488
+  size: 77, 57
+  orig: 79, 59
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: true
+  xy: 508, 330
+  size: 77, 57
+  orig: 79, 59
+  offset: 1, 1
+  index: -1

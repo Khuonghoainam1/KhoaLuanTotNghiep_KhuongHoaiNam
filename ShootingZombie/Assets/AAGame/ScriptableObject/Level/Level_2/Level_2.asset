@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be109628247297e46b53443465460928, type: 3}
+  m_Name: Level_2
+  m_EditorClassIdentifier: 
+  waveSetups:
+  - {fileID: 11400000, guid: 224a048d8dd1ce64e998ec34b42dca51, type: 2}
+  - {fileID: 11400000, guid: b2d9f0bb8bd298744b46b0feb3dd1ccd, type: 2}
+  - {fileID: 11400000, guid: 39ed1b7b3fd9d3545b6afb901cc2583e, type: 2}
+  listEndlessWave: []

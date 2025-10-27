@@ -1,0 +1,146 @@
+
+lv6.png
+size: 1188,1188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 136, 626
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 584, 6
+  size: 280, 206
+  orig: 280, 206
+  offset: 0, 0
+  index: -1
+2_fake
+  rotate: true
+  xy: 932, 25
+  size: 292, 218
+  orig: 292, 218
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 999, 754
+  size: 95, 179
+  orig: 95, 179
+  offset: 0, 0
+  index: -1
+3_fake
+  rotate: false
+  xy: 999, 561
+  size: 107, 191
+  orig: 107, 191
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 999, 851
+  size: 334, 180
+  orig: 334, 180
+  offset: 0, 0
+  index: -1
+4_fake
+  rotate: false
+  xy: 584, 214
+  size: 346, 192
+  orig: 346, 192
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: false
+  xy: 476, 473
+  size: 87, 85
+  orig: 88, 92
+  offset: 0, 4
+  index: -1
+R_eye
+  rotate: true
+  xy: 476, 560
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 455, 657
+  size: 147, 46
+  orig: 147, 47
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 2, 142
+  size: 472, 480
+  orig: 473, 480
+  offset: 1, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 234, 636
+  size: 219, 67
+  orig: 219, 67
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 577, 731
+  size: 420, 454
+  orig: 421, 456
+  offset: 0, 1
+  index: -1
+head_fake
+  rotate: false
+  xy: 136, 705
+  size: 439, 480
+  orig: 439, 480
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 147, 16
+  size: 217, 124
+  orig: 217, 124
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 366, 17
+  size: 216, 123
+  orig: 217, 125
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 624
+  size: 132, 561
+  orig: 134, 563
+  offset: 1, 1
+  index: -1
+nose
+  rotate: false
+  xy: 2, 2
+  size: 143, 138
+  orig: 144, 140
+  offset: 0, 1
+  index: -1
+toilet2
+  rotate: false
+  xy: 604, 408
+  size: 348, 321
+  orig: 454, 561
+  offset: 66, 2
+  index: -1
+toilet3
+  rotate: false
+  xy: 954, 319
+  size: 228, 240
+  orig: 229, 240
+  offset: 1, 0
+  index: -1

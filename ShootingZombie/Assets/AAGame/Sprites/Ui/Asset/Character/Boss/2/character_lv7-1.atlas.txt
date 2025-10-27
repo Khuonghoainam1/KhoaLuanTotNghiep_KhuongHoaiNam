@@ -1,0 +1,41 @@
+
+character_lv7-1.png
+size: 373,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 211, 224
+  size: 160, 101
+  orig: 160, 101
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 306, 327
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 2, 352
+  size: 19, 302
+  orig: 19, 302
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 2, 331
+  size: 19, 302
+  orig: 19, 302
+  offset: 0, 0
+  index: -1
+vk
+  rotate: false
+  xy: 2, 253
+  size: 207, 76
+  orig: 207, 76
+  offset: 0, 0
+  index: -1

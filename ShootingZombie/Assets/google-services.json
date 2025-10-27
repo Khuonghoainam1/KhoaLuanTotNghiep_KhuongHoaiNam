@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "786136629496",
+    "project_id": "publishing---nago-2",
+    "storage_bucket": "publishing---nago-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786136629496:android:fbaa70b4b89897ac0c3b0d",
+        "android_client_info": {
+          "package_name": "com.defense.toilet.ng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786136629496-q0hhknd4p4cbuhirhf4prp5sc18285vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeu8lo6SrThxVDR4tCsA8WBJoemPqq-T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786136629496-q0hhknd4p4cbuhirhf4prp5sc18285vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786136629496-12bkmirla7c0bfv40f7n62u2j0pilpdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cmr.fight.ng"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786136629496:android:cd541625f70172f10c3b0d",
+        "android_client_info": {
+          "package_name": "com.grim.fish.ng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786136629496-q0hhknd4p4cbuhirhf4prp5sc18285vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeu8lo6SrThxVDR4tCsA8WBJoemPqq-T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786136629496-q0hhknd4p4cbuhirhf4prp5sc18285vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786136629496-12bkmirla7c0bfv40f7n62u2j0pilpdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cmr.fight.ng"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786136629496:android:950cc42f8d74ad1a0c3b0d",
+        "android_client_info": {
+          "package_name": "com.nuts.bolts.puzzle.ng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786136629496-q0hhknd4p4cbuhirhf4prp5sc18285vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeu8lo6SrThxVDR4tCsA8WBJoemPqq-T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786136629496-q0hhknd4p4cbuhirhf4prp5sc18285vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786136629496-12bkmirla7c0bfv40f7n62u2j0pilpdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cmr.fight.ng"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786136629496:android:4e69bebc79e1fd960c3b0d",
+        "android_client_info": {
+          "package_name": "com.train.shoot.ng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786136629496-q0hhknd4p4cbuhirhf4prp5sc18285vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeu8lo6SrThxVDR4tCsA8WBJoemPqq-T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786136629496-q0hhknd4p4cbuhirhf4prp5sc18285vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786136629496-12bkmirla7c0bfv40f7n62u2j0pilpdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cmr.fight.ng"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

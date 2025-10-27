@@ -1,0 +1,34 @@
+
+upgrade.png
+size: 180,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 23
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+1s
+  rotate: false
+  xy: 91, 23
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 76, 112
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 125
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1

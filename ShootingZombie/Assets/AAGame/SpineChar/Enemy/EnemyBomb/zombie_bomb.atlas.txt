@@ -1,0 +1,167 @@
+
+zombie_bomb.png
+size: 640,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 525, 524
+  size: 94, 111
+  orig: 94, 111
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: true
+  xy: 503, 253
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: true
+  xy: 503, 253
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+L_leg1_fake
+  rotate: true
+  xy: 407, 183
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_leg1_fake
+  rotate: true
+  xy: 407, 183
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+L_leg2
+  rotate: true
+  xy: 541, 476
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: true
+  xy: 541, 476
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+L_leg2_fake
+  rotate: true
+  xy: 427, 433
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_leg2_fake
+  rotate: true
+  xy: 427, 433
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_foot
+  rotate: false
+  xy: 180, 387
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+R_foot_fake
+  rotate: false
+  xy: 526, 2
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 521, 157
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1
+backpack
+  rotate: false
+  xy: 407, 251
+  size: 94, 162
+  orig: 94, 162
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 249, 157
+  size: 156, 256
+  orig: 156, 256
+  offset: 0, 0
+  index: -1
+body_fake
+  rotate: false
+  xy: 2, 359
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+bomb1
+  rotate: true
+  xy: 2, 137
+  size: 220, 245
+  orig: 220, 245
+  offset: 0, 0
+  index: -1
+bomb2
+  rotate: true
+  xy: 180, 415
+  size: 220, 245
+  orig: 220, 245
+  offset: 0, 0
+  index: -1
+bomb3
+  rotate: false
+  xy: 526, 50
+  size: 91, 105
+  orig: 91, 105
+  offset: 0, 0
+  index: -1
+bomb_fx0
+  rotate: false
+  xy: 249, 25
+  size: 139, 130
+  orig: 141, 135
+  offset: 2, 1
+  index: -1
+bomb_fx1
+  rotate: false
+  xy: 503, 301
+  size: 116, 130
+  orig: 116, 132
+  offset: 0, 1
+  index: -1
+bomb_fx2
+  rotate: false
+  xy: 390, 36
+  size: 134, 119
+  orig: 136, 123
+  offset: 0, 4
+  index: -1
+glass
+  rotate: true
+  xy: 427, 501
+  size: 134, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 14
+  size: 241, 121
+  orig: 241, 121
+  offset: 0, 0
+  index: -1

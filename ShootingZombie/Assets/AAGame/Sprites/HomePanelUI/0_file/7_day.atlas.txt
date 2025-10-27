@@ -1,0 +1,20 @@
+
+7_day.png
+size: 108,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7day
+  rotate: false
+  xy: 2, 16
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+tick
+  rotate: true
+  xy: 96, 94
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1

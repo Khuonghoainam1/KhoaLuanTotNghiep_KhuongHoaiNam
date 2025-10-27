@@ -1,0 +1,139 @@
+
+AK47.png
+size: 543,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char_red/L_hand
+  rotate: false
+  xy: 327, 108
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_red/L_leg1
+  rotate: false
+  xy: 491, 190
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg1_fake
+  rotate: true
+  xy: 389, 352
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg1_fake
+  rotate: true
+  xy: 389, 352
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/L_leg2
+  rotate: false
+  xy: 491, 96
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg2_fake
+  rotate: true
+  xy: 389, 284
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg2_fake
+  rotate: true
+  xy: 389, 284
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_hand
+  rotate: false
+  xy: 404, 108
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_red/R_leg1
+  rotate: false
+  xy: 327, 2
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/R_leg2
+  rotate: false
+  xy: 375, 2
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/backpack
+  rotate: true
+  xy: 327, 185
+  size: 94, 162
+  orig: 96, 164
+  offset: 1, 1
+  index: -1
+char_red/body
+  rotate: false
+  xy: 2, 5
+  size: 157, 257
+  orig: 157, 257
+  offset: 0, 0
+  index: -1
+char_red/body_fake
+  rotate: false
+  xy: 2, 264
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+char_red/glass
+  rotate: true
+  xy: 289, 281
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+enemy_gun
+  rotate: true
+  xy: 181, 273
+  size: 268, 106
+  orig: 270, 106
+  offset: 0, 0
+  index: -1
+gun_hand
+  rotate: false
+  xy: 423, 19
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+s9_3
+  rotate: false
+  xy: 503, 402
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 289, 420
+  size: 241, 121
+  orig: 241, 121
+  offset: 0, 0
+  index: -1
+vent
+  rotate: true
+  xy: 161, 14
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1

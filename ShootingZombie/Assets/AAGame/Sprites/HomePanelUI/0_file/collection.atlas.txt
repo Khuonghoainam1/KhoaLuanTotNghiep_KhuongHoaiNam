@@ -1,0 +1,27 @@
+
+collection.png
+size: 272,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cup
+  rotate: true
+  xy: 2, 2
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 99, 56
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1
+fx2
+  rotate: false
+  xy: 2, 94
+  size: 174, 175
+  orig: 178, 178
+  offset: 2, 2
+  index: -1

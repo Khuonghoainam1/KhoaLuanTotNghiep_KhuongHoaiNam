@@ -1,0 +1,97 @@
+
+Boss_Grimace.png
+size: 1594,1594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+block
+  rotate: true
+  xy: 808, 112
+  size: 101, 239
+  orig: 180, 240
+  offset: 40, 1
+  index: -1
+body1
+  rotate: false
+  xy: 1240, 1127
+  size: 352, 465
+  orig: 353, 467
+  offset: 1, 1
+  index: -1
+fx01
+  rotate: true
+  xy: 1240, 610
+  size: 515, 337
+  orig: 559, 382
+  offset: 29, 37
+  index: -1
+fx2
+  rotate: false
+  xy: 2, 685
+  size: 1236, 907
+  orig: 1245, 957
+  offset: 9, 12
+  index: -1
+hulk_earthquake
+  rotate: false
+  xy: 2, 105
+  size: 804, 578
+  orig: 804, 579
+  offset: 0, 1
+  index: -1
+l_arm
+  rotate: false
+  xy: 808, 215
+  size: 263, 468
+  orig: 263, 468
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: true
+  xy: 1073, 611
+  size: 72, 126
+  orig: 76, 129
+  offset: 1, 2
+  index: -1
+l_eye1
+  rotate: true
+  xy: 1201, 617
+  size: 66, 37
+  orig: 68, 39
+  offset: 1, 1
+  index: -1
+l_eyebrow
+  rotate: true
+  xy: 1049, 95
+  size: 54, 63
+  orig: 56, 65
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 1328, 132
+  size: 172, 59
+  orig: 172, 59
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 1073, 151
+  size: 253, 457
+  orig: 267, 458
+  offset: 6, 0
+  index: -1
+r_eyebrow
+  rotate: true
+  xy: 1114, 103
+  size: 46, 59
+  orig: 48, 61
+  offset: 1, 1
+  index: -1
+r_leg_fake
+  rotate: false
+  xy: 1328, 306
+  size: 204, 302
+  orig: 207, 306
+  offset: 1, 1
+  index: -1

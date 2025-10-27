@@ -1,0 +1,27 @@
+
+light_star.png
+size: 657,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+victory_anim/star_L
+  rotate: false
+  xy: 259, 387
+  size: 268, 268
+  orig: 274, 274
+  offset: 3, 3
+  index: -1
+victory_anim/star_R
+  rotate: false
+  xy: 2, 400
+  size: 255, 255
+  orig: 261, 261
+  offset: 3, 3
+  index: -1
+victory_anim/star_big_center
+  rotate: false
+  xy: 2, 2
+  size: 383, 383
+  orig: 393, 393
+  offset: 5, 5
+  index: -1

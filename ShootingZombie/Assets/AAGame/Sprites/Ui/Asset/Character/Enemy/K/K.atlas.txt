@@ -1,0 +1,76 @@
+
+K.png
+size: 564,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: true
+  xy: 241, 335
+  size: 227, 314
+  orig: 242, 314
+  offset: 15, 0
+  index: -1
+1/glass_1
+  rotate: false
+  xy: 302, 296
+  size: 59, 37
+  orig: 61, 39
+  offset: 1, 1
+  index: -1
+1/glass_2
+  rotate: false
+  xy: 424, 296
+  size: 59, 37
+  orig: 61, 39
+  offset: 1, 1
+  index: -1
+1/glass_3
+  rotate: true
+  xy: 524, 274
+  size: 59, 37
+  orig: 61, 39
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 234, 5
+  size: 227, 314
+  orig: 242, 314
+  offset: 15, 0
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 234
+  size: 237, 328
+  orig: 252, 334
+  offset: 12, 3
+  index: -1
+die
+  rotate: false
+  xy: 2, 2
+  size: 230, 230
+  orig: 253, 253
+  offset: 12, 11
+  index: -1
+glass_1
+  rotate: false
+  xy: 241, 296
+  size: 59, 37
+  orig: 61, 39
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: false
+  xy: 363, 296
+  size: 59, 37
+  orig: 61, 39
+  offset: 1, 1
+  index: -1
+glass_3
+  rotate: true
+  xy: 485, 274
+  size: 59, 37
+  orig: 61, 39
+  offset: 1, 1
+  index: -1

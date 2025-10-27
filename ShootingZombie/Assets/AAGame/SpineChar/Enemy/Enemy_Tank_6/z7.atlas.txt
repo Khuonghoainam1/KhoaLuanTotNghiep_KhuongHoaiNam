@@ -1,0 +1,125 @@
+
+z7.png
+size: 672,672
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 170, 6
+  size: 144, 151
+  orig: 144, 151
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 245, 188
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: false
+  xy: 245, 188
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+L_leg1_fake
+  rotate: false
+  xy: 584, 556
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_leg1_fake
+  rotate: false
+  xy: 584, 556
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+L_leg2
+  rotate: false
+  xy: 584, 348
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 584, 348
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+L_leg2_fake
+  rotate: false
+  xy: 584, 442
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_leg2_fake
+  rotate: false
+  xy: 584, 442
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_hand
+  rotate: true
+  xy: 493, 158
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+backpack
+  rotate: true
+  xy: 316, 18
+  size: 94, 162
+  orig: 94, 162
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 303, 302
+  size: 279, 366
+  orig: 279, 366
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 2, 2
+  size: 155, 166
+  orig: 155, 166
+  offset: 0, 0
+  index: -1
+body_fake
+  rotate: false
+  xy: 2, 282
+  size: 299, 386
+  orig: 299, 386
+  offset: 0, 0
+  index: -1
+body_fake2
+  rotate: false
+  xy: 316, 114
+  size: 175, 186
+  orig: 177, 187
+  offset: 1, 1
+  index: -1
+glass
+  rotate: false
+  xy: 493, 58
+  size: 138, 98
+  orig: 138, 98
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 159
+  size: 241, 121
+  orig: 241, 121
+  offset: 0, 0
+  index: -1

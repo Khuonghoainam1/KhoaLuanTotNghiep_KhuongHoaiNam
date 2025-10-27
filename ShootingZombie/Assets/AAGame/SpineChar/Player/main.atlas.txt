@@ -1,0 +1,104 @@
+
+main.png
+size: 425,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char_red/L_hand
+  rotate: false
+  xy: 340, 118
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+char_red/L_leg1
+  rotate: true
+  xy: 2, 2
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/R_leg1
+  rotate: true
+  xy: 2, 2
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg1_fake
+  rotate: false
+  xy: 340, 311
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg1_fake
+  rotate: false
+  xy: 340, 311
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/L_leg2
+  rotate: true
+  xy: 96, 2
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/R_leg2
+  rotate: true
+  xy: 96, 2
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg2_fake
+  rotate: false
+  xy: 340, 197
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg2_fake
+  rotate: false
+  xy: 340, 197
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_hand
+  rotate: false
+  xy: 320, 39
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+char_red/backpack
+  rotate: true
+  xy: 2, 50
+  size: 94, 162
+  orig: 96, 164
+  offset: 1, 1
+  index: -1
+char_red/body
+  rotate: false
+  xy: 181, 166
+  size: 157, 257
+  orig: 157, 257
+  offset: 0, 0
+  index: -1
+char_red/body_fake
+  rotate: false
+  xy: 2, 146
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 181, 66
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+zombie_bomb.png
+size: 564,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_foot_fake
+  rotate: false
+  xy: 481, 210
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+R_leg1_fake
+  rotate: true
+  xy: 114, 13
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+R_leg2_fake
+  rotate: false
+  xy: 495, 259
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 8
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 456, 153
+  size: 110, 23
+  orig: 113, 25
+  offset: 1, 0
+  index: -1
+zbomb/L_hand
+  rotate: false
+  xy: 456, 40
+  size: 94, 111
+  orig: 94, 111
+  offset: 0, 0
+  index: -1
+zbomb/R_foot
+  rotate: true
+  xy: 481, 157
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+zbomb/R_hand
+  rotate: true
+  xy: 336, 10
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+zbomb/R_leg1
+  rotate: false
+  xy: 496, 469
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+zbomb/R_leg2
+  rotate: false
+  xy: 496, 374
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+zbomb/backpack
+  rotate: false
+  xy: 359, 100
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+zbomb/body
+  rotate: true
+  xy: 218, 386
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+zbomb/bomb1
+  rotate: false
+  xy: 2, 323
+  size: 214, 239
+  orig: 214, 239
+  offset: 0, 0
+  index: -1
+zbomb/bomb2
+  rotate: false
+  xy: 2, 82
+  size: 214, 239
+  orig: 214, 239
+  offset: 0, 0
+  index: -1
+zbomb/bomb3
+  rotate: true
+  xy: 229, 43
+  size: 91, 105
+  orig: 91, 105
+  offset: 0, 0
+  index: -1
+zbomb/bomb_fx0
+  rotate: false
+  xy: 218, 254
+  size: 139, 130
+  orig: 141, 135
+  offset: 2, 1
+  index: -1
+zbomb/bomb_fx1
+  rotate: true
+  xy: 218, 136
+  size: 116, 130
+  orig: 116, 132
+  offset: 0, 1
+  index: -1
+zbomb/bomb_fx2
+  rotate: false
+  xy: 359, 265
+  size: 134, 119
+  orig: 136, 123
+  offset: 0, 4
+  index: -1

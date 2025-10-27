@@ -1,0 +1,139 @@
+
+Q.png
+size: 820,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: true
+  xy: 2, 2
+  size: 228, 274
+  orig: 230, 276
+  offset: 1, 1
+  index: -1
+1/glass_1
+  rotate: false
+  xy: 367, 21
+  size: 87, 50
+  orig: 89, 52
+  offset: 1, 1
+  index: -1
+1/glass_2
+  rotate: false
+  xy: 545, 21
+  size: 87, 50
+  orig: 89, 52
+  offset: 1, 1
+  index: -1
+1/glass_3
+  rotate: true
+  xy: 338, 527
+  size: 87, 50
+  orig: 89, 52
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 232
+  size: 228, 274
+  orig: 230, 276
+  offset: 1, 1
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 508
+  size: 282, 309
+  orig: 289, 316
+  offset: 3, 4
+  index: -1
+die
+  rotate: false
+  xy: 232, 276
+  size: 227, 230
+  orig: 239, 253
+  offset: 1, 11
+  index: -1
+glass_1
+  rotate: false
+  xy: 278, 21
+  size: 87, 50
+  orig: 89, 52
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: false
+  xy: 456, 21
+  size: 87, 50
+  orig: 89, 52
+  offset: 1, 1
+  index: -1
+glass_3
+  rotate: true
+  xy: 286, 527
+  size: 87, 50
+  orig: 89, 52
+  offset: 1, 1
+  index: -1
+tongue
+  rotate: false
+  xy: 604, 92
+  size: 179, 156
+  orig: 179, 156
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: true
+  xy: 278, 73
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: true
+  xy: 441, 73
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_3
+  rotate: true
+  xy: 634, 616
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_4
+  rotate: true
+  xy: 286, 616
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_5
+  rotate: true
+  xy: 449, 616
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_6
+  rotate: true
+  xy: 634, 413
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_7
+  rotate: true
+  xy: 461, 413
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_8
+  rotate: false
+  xy: 604, 250
+  size: 200, 161
+  orig: 202, 162
+  offset: 1, 0
+  index: -1

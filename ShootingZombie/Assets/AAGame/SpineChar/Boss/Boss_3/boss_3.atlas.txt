@@ -1,0 +1,181 @@
+
+boss_3.png
+size: 808,808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/L_arm_1
+  rotate: false
+  xy: 648, 262
+  size: 95, 150
+  orig: 95, 151
+  offset: 0, 1
+  index: -1
+1/L_arm_1_fake
+  rotate: true
+  xy: 255, 70
+  size: 115, 170
+  orig: 115, 171
+  offset: 0, 1
+  index: -1
+1/L_arm_2
+  rotate: false
+  xy: 255, 187
+  size: 155, 161
+  orig: 155, 170
+  offset: 0, 8
+  index: -1
+1/L_eye
+  rotate: false
+  xy: 354, 8
+  size: 54, 60
+  orig: 54, 68
+  offset: 0, 4
+  index: -1
+1/L_hand
+  rotate: false
+  xy: 2, 131
+  size: 251, 217
+  orig: 251, 217
+  offset: 0, 0
+  index: -1
+1/L_leg_1
+  rotate: true
+  xy: 430, 299
+  size: 73, 216
+  orig: 73, 216
+  offset: 0, 0
+  index: -1
+1/L_leg_1_fake
+  rotate: false
+  xy: 430, 374
+  size: 93, 236
+  orig: 93, 236
+  offset: 0, 0
+  index: -1
+1/R_arm_1
+  rotate: false
+  xy: 600, 71
+  size: 95, 151
+  orig: 95, 151
+  offset: 0, 0
+  index: -1
+1/R_arm_1_fake
+  rotate: true
+  xy: 427, 107
+  size: 115, 171
+  orig: 115, 171
+  offset: 0, 0
+  index: -1
+1/R_arm_2
+  rotate: true
+  xy: 427, 2
+  size: 103, 170
+  orig: 103, 171
+  offset: 0, 1
+  index: -1
+1/R_arm_2_fake
+  rotate: false
+  xy: 610, 613
+  size: 123, 191
+  orig: 123, 191
+  offset: 0, 0
+  index: -1
+1/R_eye
+  rotate: false
+  xy: 735, 633
+  size: 49, 44
+  orig: 58, 48
+  offset: 9, 1
+  index: -1
+1/R_hand
+  rotate: false
+  xy: 430, 612
+  size: 178, 192
+  orig: 178, 193
+  offset: 0, 1
+  index: -1
+1/R_leg_1
+  rotate: true
+  xy: 412, 224
+  size: 73, 216
+  orig: 73, 216
+  offset: 0, 0
+  index: -1
+1/R_leg_1_fake
+  rotate: false
+  xy: 525, 374
+  size: 93, 236
+  orig: 93, 236
+  offset: 0, 0
+  index: -1
+1/R_leg_2
+  rotate: false
+  xy: 620, 414
+  size: 108, 197
+  orig: 108, 198
+  offset: 0, 1
+  index: -1
+1/armor
+  rotate: true
+  xy: 708, 45
+  size: 99, 90
+  orig: 114, 104
+  offset: 7, 7
+  index: -1
+1/armor_fake
+  rotate: true
+  xy: 697, 146
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+1/body
+  rotate: false
+  xy: 2, 350
+  size: 212, 454
+  orig: 212, 454
+  offset: 0, 0
+  index: -1
+1/body_die
+  rotate: false
+  xy: 216, 350
+  size: 212, 454
+  orig: 212, 454
+  offset: 0, 0
+  index: -1
+1/eye
+  rotate: false
+  xy: 412, 206
+  size: 13, 16
+  orig: 15, 18
+  offset: 1, 1
+  index: -1
+1/mouth
+  rotate: true
+  xy: 735, 679
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+1/tongue
+  rotate: true
+  xy: 245, 2
+  size: 66, 107
+  orig: 70, 107
+  offset: 0, 0
+  index: -1
+1/tongue_fake
+  rotate: true
+  xy: 599, 3
+  size: 66, 107
+  orig: 70, 107
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 8
+  size: 241, 121
+  orig: 241, 121
+  offset: 0, 0
+  index: -1

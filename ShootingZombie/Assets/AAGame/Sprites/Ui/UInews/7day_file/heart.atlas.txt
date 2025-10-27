@@ -1,0 +1,20 @@
+
+heart.png
+size: 158,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7day
+  rotate: false
+  xy: 2, 34
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+tick
+  rotate: false
+  xy: 134, 133
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1

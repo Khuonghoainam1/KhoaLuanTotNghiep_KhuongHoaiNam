@@ -1,0 +1,251 @@
+
+Pistol.png
+size: 762,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+New folder/ao1
+  rotate: false
+  xy: 363, 529
+  size: 244, 231
+  orig: 244, 231
+  offset: 0, 0
+  index: -1
+New folder/hat1
+  rotate: false
+  xy: 2, 601
+  size: 359, 159
+  orig: 359, 160
+  offset: 0, 1
+  index: -1
+New folder/q2
+  rotate: true
+  xy: 141, 14
+  size: 88, 131
+  orig: 88, 131
+  offset: 0, 0
+  index: -1
+New folder/q22
+  rotate: true
+  xy: 141, 14
+  size: 88, 131
+  orig: 88, 131
+  offset: 0, 0
+  index: -1
+char_blue/L_hand
+  rotate: true
+  xy: 528, 452
+  size: 75, 76
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_blue/L_leg1
+  rotate: false
+  xy: 706, 668
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_blue/R_leg1
+  rotate: false
+  xy: 706, 668
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_blue/L_leg1_fake
+  rotate: false
+  xy: 281, 487
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_blue/R_leg1_fake
+  rotate: false
+  xy: 281, 487
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_blue/L_leg2
+  rotate: false
+  xy: 706, 574
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_blue/R_leg2
+  rotate: false
+  xy: 706, 574
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_blue/L_leg2_fake
+  rotate: false
+  xy: 281, 373
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_blue/R_leg2_fake
+  rotate: false
+  xy: 281, 373
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_blue/R_hand
+  rotate: true
+  xy: 261, 296
+  size: 75, 76
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_blue/backpack
+  rotate: false
+  xy: 500, 5
+  size: 94, 162
+  orig: 96, 164
+  offset: 1, 1
+  index: -1
+char_blue/body
+  rotate: true
+  xy: 2, 263
+  size: 157, 257
+  orig: 157, 257
+  offset: 0, 0
+  index: -1
+char_blue/body_fake
+  rotate: true
+  xy: 2, 422
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+char_blue/glass
+  rotate: true
+  xy: 338, 8
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+char_red/L_hand
+  rotate: false
+  xy: 261, 219
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_red/L_leg1
+  rotate: false
+  xy: 706, 480
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg1_fake
+  rotate: false
+  xy: 694, 272
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg1_fake
+  rotate: false
+  xy: 694, 272
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/L_leg2
+  rotate: false
+  xy: 706, 386
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/L_leg2_fake
+  rotate: false
+  xy: 694, 158
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_leg2_fake
+  rotate: false
+  xy: 694, 158
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+char_red/R_hand
+  rotate: false
+  xy: 261, 142
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+char_red/R_leg1
+  rotate: false
+  xy: 692, 64
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/R_leg2
+  rotate: false
+  xy: 438, 53
+  size: 46, 92
+  orig: 48, 94
+  offset: 1, 1
+  index: -1
+char_red/backpack
+  rotate: false
+  xy: 596, 5
+  size: 94, 162
+  orig: 96, 164
+  offset: 1, 1
+  index: -1
+char_red/body
+  rotate: true
+  xy: 2, 104
+  size: 157, 257
+  orig: 157, 257
+  offset: 0, 0
+  index: -1
+char_red/body_fake
+  rotate: false
+  xy: 349, 250
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+char_red/glass
+  rotate: false
+  xy: 2, 4
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 338, 147
+  size: 160, 101
+  orig: 162, 104
+  offset: 2, 3
+  index: -1
+han
+  rotate: true
+  xy: 609, 419
+  size: 341, 95
+  orig: 341, 95
+  offset: 0, 0
+  index: -1
+vent
+  rotate: true
+  xy: 528, 169
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1

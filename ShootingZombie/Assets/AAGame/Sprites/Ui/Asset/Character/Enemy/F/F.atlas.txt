@@ -1,0 +1,83 @@
+
+F.png
+size: 632,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body_1
+  rotate: false
+  xy: 266, 378
+  size: 205, 250
+  orig: 207, 252
+  offset: 1, 1
+  index: -1
+1/body_2
+  rotate: false
+  xy: 219, 2
+  size: 215, 101
+  orig: 217, 103
+  offset: 1, 1
+  index: -1
+1/glass_2
+  rotate: false
+  xy: 436, 3
+  size: 69, 54
+  orig: 71, 56
+  offset: 1, 1
+  index: -1
+body_1
+  rotate: true
+  xy: 234, 130
+  size: 205, 250
+  orig: 207, 252
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 2
+  size: 215, 101
+  orig: 217, 103
+  offset: 1, 1
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 337
+  size: 262, 291
+  orig: 266, 298
+  offset: 3, 3
+  index: -1
+die
+  rotate: false
+  xy: 2, 105
+  size: 230, 230
+  orig: 253, 253
+  offset: 12, 11
+  index: -1
+glass_1
+  rotate: true
+  xy: 473, 576
+  size: 52, 53
+  orig: 54, 55
+  offset: 1, 1
+  index: -1
+1/glass_1
+  rotate: true
+  xy: 473, 576
+  size: 52, 53
+  orig: 54, 55
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: true
+  xy: 436, 59
+  size: 69, 54
+  orig: 71, 56
+  offset: 1, 1
+  index: -1
+mouth_1
+  rotate: true
+  xy: 266, 345
+  size: 31, 88
+  orig: 33, 90
+  offset: 1, 1
+  index: -1

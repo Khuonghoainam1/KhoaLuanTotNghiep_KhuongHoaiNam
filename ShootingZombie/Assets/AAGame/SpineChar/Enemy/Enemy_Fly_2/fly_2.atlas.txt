@@ -1,0 +1,90 @@
+
+fly_2.png
+size: 588,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/b_arm
+  rotate: false
+  xy: 195, 9
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+1/b_arm_2
+  rotate: true
+  xy: 549, 367
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+1/b_arm_2_fake
+  rotate: false
+  xy: 328, 8
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+1/b_arm_fake
+  rotate: false
+  xy: 397, 326
+  size: 150, 128
+  orig: 150, 128
+  offset: 0, 0
+  index: -1
+1/b_hand
+  rotate: true
+  xy: 349, 65
+  size: 123, 115
+  orig: 123, 115
+  offset: 0, 0
+  index: -1
+1/b_hand_fake
+  rotate: false
+  xy: 397, 190
+  size: 143, 134
+  orig: 143, 134
+  offset: 0, 0
+  index: -1
+1/body
+  rotate: false
+  xy: 2, 245
+  size: 393, 340
+  orig: 393, 340
+  offset: 0, 0
+  index: -1
+1/eye
+  rotate: false
+  xy: 549, 320
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+1/f_arm_1
+  rotate: true
+  xy: 466, 56
+  size: 132, 105
+  orig: 132, 105
+  offset: 0, 0
+  index: -1
+1/f_arm_1_fake
+  rotate: false
+  xy: 195, 118
+  size: 152, 125
+  orig: 152, 125
+  offset: 0, 0
+  index: -1
+1/f_hand
+  rotate: true
+  xy: 2, 43
+  size: 200, 191
+  orig: 200, 191
+  offset: 0, 0
+  index: -1
+1/f_wing
+  rotate: false
+  xy: 397, 456
+  size: 186, 129
+  orig: 186, 129
+  offset: 0, 0
+  index: -1

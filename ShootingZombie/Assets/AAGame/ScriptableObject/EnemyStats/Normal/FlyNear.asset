@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fbdc9925cd0eb34eb70983464f153fb, type: 3}
+  m_Name: FlyNear
+  m_EditorClassIdentifier: 
+  enemyStatsNormal:
+  - hp: 475
+    atk: 10
+  - hp: 546
+    atk: 10
+  - hp: 627
+    atk: 10
+  - hp: 721
+    atk: 10
+  - hp: 829
+    atk: 10
+  - hp: 1036
+    atk: 10
+  - hp: 1295
+    atk: 10
+  - hp: 1618
+    atk: 10
+  - hp: 2022
+    atk: 10
+  - hp: 2527
+    atk: 10
+  - hp: 3158
+    atk: 10
+  - hp: 3947
+    atk: 10
+  - hp: 4933
+    atk: 10
+  - hp: 6166
+    atk: 10
+  - hp: 7707
+    atk: 10
+  - hp: 9633
+    atk: 10
+  - hp: 12041
+    atk: 10
+  - hp: 15051
+    atk: 10
+  - hp: 18813
+    atk: 10
+  - hp: 23516
+    atk: 10
+  - hp: 29395
+    atk: 10
+  - hp: 36743
+    atk: 10
+  - hp: 45928
+    atk: 10
+  - hp: 57410
+    atk: 10
+  - hp: 71762
+    atk: 10
+  - hp: 89702
+    atk: 10
+  - hp: 112127
+    atk: 10
+  - hp: 140158
+    atk: 10
+  - hp: 175197
+    atk: 10
+  - hp: 218996
+    atk: 10

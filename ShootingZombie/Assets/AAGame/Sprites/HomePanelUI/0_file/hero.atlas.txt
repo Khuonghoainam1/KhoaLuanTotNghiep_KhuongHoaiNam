@@ -1,0 +1,27 @@
+
+hero.png
+size: 144,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 86, 30
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 83
+  size: 117, 58
+  orig: 117, 58
+  offset: 0, 0
+  index: -1

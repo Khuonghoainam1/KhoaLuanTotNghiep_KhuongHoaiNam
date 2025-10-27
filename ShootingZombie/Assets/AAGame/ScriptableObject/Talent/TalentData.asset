@@ -1,0 +1,639 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da64ac4b208cb78468e18e8a07f26898, type: 3}
+  m_Name: TalentData
+  m_EditorClassIdentifier: 
+  levelTalentDatas:
+  - level: 1
+    talents:
+    - talentType: 0
+      level: 1
+      amountUp: 0.5
+      gold: 500
+      indexTalent: 1
+      des: 
+    - talentType: 1
+      level: 1
+      amountUp: 22
+      gold: 500
+      indexTalent: 2
+      des: 
+    - talentType: 2
+      level: 1
+      amountUp: 1
+      gold: 500
+      indexTalent: 3
+      des: 
+    - talentType: 4
+      level: 1
+      amountUp: 5
+      gold: 1
+      indexTalent: 1
+      des: ATK +5%
+  - level: 2
+    talents:
+    - talentType: 0
+      level: 2
+      amountUp: 1
+      gold: 1000
+      indexTalent: 4
+      des: 
+    - talentType: 1
+      level: 2
+      amountUp: 24
+      gold: 1000
+      indexTalent: 5
+      des: 
+    - talentType: 2
+      level: 2
+      amountUp: 1
+      gold: 1000
+      indexTalent: 6
+      des: 
+  - level: 3
+    talents:
+    - talentType: 0
+      level: 3
+      amountUp: 1.5
+      gold: 1500
+      indexTalent: 7
+      des: 
+    - talentType: 1
+      level: 3
+      amountUp: 26
+      gold: 1500
+      indexTalent: 8
+      des: 
+    - talentType: 2
+      level: 3
+      amountUp: 1
+      gold: 1500
+      indexTalent: 9
+      des: 
+  - level: 4
+    talents:
+    - talentType: 0
+      level: 4
+      amountUp: 2
+      gold: 2000
+      indexTalent: 10
+      des: 
+    - talentType: 1
+      level: 4
+      amountUp: 28
+      gold: 2000
+      indexTalent: 11
+      des: 
+    - talentType: 2
+      level: 4
+      amountUp: 1
+      gold: 2000
+      indexTalent: 12
+      des: 
+  - level: 5
+    talents:
+    - talentType: 0
+      level: 5
+      amountUp: 2.5
+      gold: 2500
+      indexTalent: 13
+      des: 
+    - talentType: 1
+      level: 5
+      amountUp: 30
+      gold: 2500
+      indexTalent: 14
+      des: 
+    - talentType: 2
+      level: 5
+      amountUp: 1
+      gold: 2500
+      indexTalent: 15
+      des: 
+  - level: 6
+    talents:
+    - talentType: 0
+      level: 6
+      amountUp: 3
+      gold: 3000
+      indexTalent: 16
+      des: 
+    - talentType: 1
+      level: 6
+      amountUp: 32
+      gold: 3000
+      indexTalent: 17
+      des: 
+    - talentType: 2
+      level: 6
+      amountUp: 1
+      gold: 3000
+      indexTalent: 18
+      des: 
+  - level: 7
+    talents:
+    - talentType: 0
+      level: 7
+      amountUp: 3.5
+      gold: 3500
+      indexTalent: 19
+      des: 
+    - talentType: 1
+      level: 7
+      amountUp: 34
+      gold: 3500
+      indexTalent: 20
+      des: 
+    - talentType: 2
+      level: 7
+      amountUp: 1
+      gold: 3500
+      indexTalent: 21
+      des: 
+  - level: 8
+    talents:
+    - talentType: 0
+      level: 8
+      amountUp: 4
+      gold: 4000
+      indexTalent: 22
+      des: 
+    - talentType: 1
+      level: 8
+      amountUp: 36
+      gold: 4000
+      indexTalent: 23
+      des: 
+    - talentType: 2
+      level: 8
+      amountUp: 1
+      gold: 4000
+      indexTalent: 24
+      des: 
+  - level: 9
+    talents:
+    - talentType: 0
+      level: 9
+      amountUp: 4.5
+      gold: 4500
+      indexTalent: 25
+      des: 
+    - talentType: 1
+      level: 9
+      amountUp: 38
+      gold: 4500
+      indexTalent: 26
+      des: 
+    - talentType: 2
+      level: 9
+      amountUp: 1
+      gold: 4500
+      indexTalent: 27
+      des: 
+  - level: 10
+    talents:
+    - talentType: 0
+      level: 10
+      amountUp: 5
+      gold: 5000
+      indexTalent: 28
+      des: 
+    - talentType: 1
+      level: 10
+      amountUp: 40
+      gold: 5000
+      indexTalent: 29
+      des: 
+    - talentType: 2
+      level: 10
+      amountUp: 1
+      gold: 5000
+      indexTalent: 30
+      des: 
+    - talentType: 5
+      level: 10
+      amountUp: 20
+      gold: 1
+      indexTalent: 2
+      des: Increase coins to receive 20% more
+  - level: 11
+    talents:
+    - talentType: 0
+      level: 11
+      amountUp: 5.5
+      gold: 5500
+      indexTalent: 31
+      des: 
+    - talentType: 1
+      level: 11
+      amountUp: 42
+      gold: 5500
+      indexTalent: 32
+      des: 
+    - talentType: 2
+      level: 11
+      amountUp: 1
+      gold: 5500
+      indexTalent: 33
+      des: 
+  - level: 12
+    talents:
+    - talentType: 0
+      level: 12
+      amountUp: 6
+      gold: 6000
+      indexTalent: 34
+      des: 
+    - talentType: 1
+      level: 12
+      amountUp: 44
+      gold: 6000
+      indexTalent: 35
+      des: 
+    - talentType: 2
+      level: 12
+      amountUp: 1
+      gold: 6000
+      indexTalent: 36
+      des: 
+  - level: 13
+    talents:
+    - talentType: 0
+      level: 13
+      amountUp: 6.5
+      gold: 6500
+      indexTalent: 37
+      des: 
+    - talentType: 1
+      level: 13
+      amountUp: 46
+      gold: 6500
+      indexTalent: 38
+      des: 
+    - talentType: 2
+      level: 13
+      amountUp: 1
+      gold: 6500
+      indexTalent: 39
+      des: 
+  - level: 14
+    talents:
+    - talentType: 0
+      level: 14
+      amountUp: 7
+      gold: 7000
+      indexTalent: 40
+      des: 
+    - talentType: 1
+      level: 14
+      amountUp: 48
+      gold: 7000
+      indexTalent: 41
+      des: 
+    - talentType: 2
+      level: 14
+      amountUp: 1
+      gold: 7000
+      indexTalent: 42
+      des: 
+  - level: 15
+    talents:
+    - talentType: 0
+      level: 15
+      amountUp: 7.5
+      gold: 7500
+      indexTalent: 43
+      des: 
+    - talentType: 1
+      level: 15
+      amountUp: 50
+      gold: 7500
+      indexTalent: 44
+      des: 
+    - talentType: 2
+      level: 15
+      amountUp: 1
+      gold: 7500
+      indexTalent: 45
+      des: 
+  - level: 16
+    talents:
+    - talentType: 0
+      level: 16
+      amountUp: 8
+      gold: 8000
+      indexTalent: 46
+      des: 
+    - talentType: 1
+      level: 16
+      amountUp: 52
+      gold: 8000
+      indexTalent: 47
+      des: 
+    - talentType: 2
+      level: 16
+      amountUp: 1
+      gold: 8000
+      indexTalent: 48
+      des: 
+  - level: 17
+    talents:
+    - talentType: 0
+      level: 17
+      amountUp: 8.5
+      gold: 8500
+      indexTalent: 49
+      des: 
+    - talentType: 1
+      level: 17
+      amountUp: 54
+      gold: 8500
+      indexTalent: 50
+      des: 
+    - talentType: 2
+      level: 17
+      amountUp: 1
+      gold: 8500
+      indexTalent: 51
+      des: 
+  - level: 18
+    talents:
+    - talentType: 0
+      level: 18
+      amountUp: 9
+      gold: 9000
+      indexTalent: 52
+      des: 
+    - talentType: 1
+      level: 18
+      amountUp: 56
+      gold: 9000
+      indexTalent: 53
+      des: 
+    - talentType: 2
+      level: 18
+      amountUp: 1
+      gold: 9000
+      indexTalent: 54
+      des: 
+  - level: 19
+    talents:
+    - talentType: 0
+      level: 19
+      amountUp: 9.5
+      gold: 9500
+      indexTalent: 55
+      des: 
+    - talentType: 1
+      level: 19
+      amountUp: 58
+      gold: 9500
+      indexTalent: 56
+      des: 
+    - talentType: 2
+      level: 19
+      amountUp: 1
+      gold: 9500
+      indexTalent: 57
+      des: 
+  - level: 20
+    talents:
+    - talentType: 0
+      level: 20
+      amountUp: 10
+      gold: 10000
+      indexTalent: 58
+      des: 
+    - talentType: 1
+      level: 20
+      amountUp: 60
+      gold: 10000
+      indexTalent: 59
+      des: 
+    - talentType: 2
+      level: 20
+      amountUp: 1
+      gold: 10000
+      indexTalent: 60
+      des: 
+    - talentType: 3
+      level: 20
+      amountUp: 1
+      gold: 2
+      indexTalent: 3
+      des: Reroll skill 1 time in battle
+  - level: 21
+    talents:
+    - talentType: 0
+      level: 21
+      amountUp: 10.5
+      gold: 10500
+      indexTalent: 61
+      des: 
+    - talentType: 1
+      level: 21
+      amountUp: 62
+      gold: 10500
+      indexTalent: 62
+      des: 
+    - talentType: 2
+      level: 21
+      amountUp: 1
+      gold: 10500
+      indexTalent: 63
+      des: 
+  - level: 22
+    talents:
+    - talentType: 0
+      level: 22
+      amountUp: 11
+      gold: 11000
+      indexTalent: 64
+      des: 
+    - talentType: 1
+      level: 22
+      amountUp: 64
+      gold: 11000
+      indexTalent: 65
+      des: 
+    - talentType: 2
+      level: 22
+      amountUp: 1
+      gold: 11000
+      indexTalent: 66
+      des: 
+  - level: 23
+    talents:
+    - talentType: 0
+      level: 23
+      amountUp: 11.5
+      gold: 11500
+      indexTalent: 67
+      des: 
+    - talentType: 1
+      level: 23
+      amountUp: 66
+      gold: 11500
+      indexTalent: 68
+      des: 
+    - talentType: 2
+      level: 23
+      amountUp: 1
+      gold: 11500
+      indexTalent: 69
+      des: 
+  - level: 24
+    talents:
+    - talentType: 0
+      level: 24
+      amountUp: 12
+      gold: 12000
+      indexTalent: 70
+      des: 
+    - talentType: 1
+      level: 24
+      amountUp: 68
+      gold: 12000
+      indexTalent: 71
+      des: 
+    - talentType: 2
+      level: 24
+      amountUp: 1
+      gold: 12000
+      indexTalent: 72
+      des: 
+  - level: 25
+    talents:
+    - talentType: 0
+      level: 25
+      amountUp: 12.5
+      gold: 12500
+      indexTalent: 73
+      des: 
+    - talentType: 1
+      level: 25
+      amountUp: 70
+      gold: 12500
+      indexTalent: 74
+      des: 
+    - talentType: 2
+      level: 25
+      amountUp: 1
+      gold: 12500
+      indexTalent: 75
+      des: 
+  - level: 26
+    talents:
+    - talentType: 0
+      level: 26
+      amountUp: 13
+      gold: 13000
+      indexTalent: 76
+      des: 
+    - talentType: 1
+      level: 26
+      amountUp: 72
+      gold: 13000
+      indexTalent: 77
+      des: 
+    - talentType: 2
+      level: 26
+      amountUp: 1
+      gold: 13000
+      indexTalent: 78
+      des: 
+  - level: 27
+    talents:
+    - talentType: 0
+      level: 27
+      amountUp: 13.5
+      gold: 13500
+      indexTalent: 79
+      des: 
+    - talentType: 1
+      level: 27
+      amountUp: 74
+      gold: 13500
+      indexTalent: 80
+      des: 
+    - talentType: 2
+      level: 27
+      amountUp: 1
+      gold: 13500
+      indexTalent: 81
+      des: 
+  - level: 28
+    talents:
+    - talentType: 0
+      level: 28
+      amountUp: 14
+      gold: 14000
+      indexTalent: 82
+      des: 
+    - talentType: 1
+      level: 28
+      amountUp: 76
+      gold: 14000
+      indexTalent: 83
+      des: 
+    - talentType: 2
+      level: 28
+      amountUp: 1
+      gold: 14000
+      indexTalent: 84
+      des: 
+  - level: 29
+    talents:
+    - talentType: 0
+      level: 29
+      amountUp: 14.5
+      gold: 14500
+      indexTalent: 85
+      des: 
+    - talentType: 1
+      level: 29
+      amountUp: 78
+      gold: 14500
+      indexTalent: 86
+      des: 
+    - talentType: 2
+      level: 29
+      amountUp: 1
+      gold: 14500
+      indexTalent: 87
+      des: 
+  - level: 30
+    talents:
+    - talentType: 0
+      level: 30
+      amountUp: 15
+      gold: 15000
+      indexTalent: 88
+      des: 
+    - talentType: 1
+      level: 30
+      amountUp: 80
+      gold: 15000
+      indexTalent: 89
+      des: 
+    - talentType: 2
+      level: 30
+      amountUp: 1
+      gold: 15000
+      indexTalent: 90
+      des: 
+    - talentType: 4
+      level: 30
+      amountUp: 10
+      gold: 2
+      indexTalent: 4
+      des: ATK + 10%

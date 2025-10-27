@@ -1,0 +1,146 @@
+
+Zombie_poison.png
+size: 620,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: true
+  xy: 418, 8
+  size: 79, 106
+  orig: 80, 107
+  offset: 1, 0
+  index: -1
+L_leg1
+  rotate: true
+  xy: 2, 2
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: true
+  xy: 96, 2
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+L_leg2_fake
+  rotate: true
+  xy: 190, 4
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_foot
+  rotate: true
+  xy: 584, 564
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+R_foot_fake
+  rotate: false
+  xy: 509, 173
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 386, 333
+  size: 95, 94
+  orig: 96, 94
+  offset: 1, 0
+  index: -1
+R_leg1
+  rotate: false
+  xy: 550, 356
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+R_leg1_fake
+  rotate: true
+  xy: 304, 4
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+R_leg2
+  rotate: false
+  xy: 461, 127
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+R_leg2_fake
+  rotate: false
+  xy: 482, 336
+  size: 66, 112
+  orig: 68, 114
+  offset: 1, 1
+  index: -1
+Shape 11
+  rotate: true
+  xy: 461, 221
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: -1
+backpack
+  rotate: false
+  xy: 2, 329
+  size: 246, 287
+  orig: 247, 295
+  offset: 0, 4
+  index: -1
+body
+  rotate: false
+  xy: 181, 72
+  size: 155, 255
+  orig: 155, 255
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 427, 450
+  size: 155, 166
+  orig: 155, 166
+  offset: 0, 0
+  index: -1
+body_fake
+  rotate: false
+  xy: 2, 50
+  size: 177, 277
+  orig: 177, 277
+  offset: 0, 0
+  index: -1
+body_fake2
+  rotate: false
+  xy: 250, 430
+  size: 175, 186
+  orig: 177, 187
+  offset: 1, 1
+  index: -1
+glass
+  rotate: false
+  xy: 250, 332
+  size: 134, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 338, 89
+  size: 241, 121
+  orig: 241, 121
+  offset: 0, 0
+  index: -1
+water
+  rotate: true
+  xy: 509, 103
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1

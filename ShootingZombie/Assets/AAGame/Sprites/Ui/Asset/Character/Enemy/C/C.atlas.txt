@@ -1,0 +1,76 @@
+
+C.png
+size: 568,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: true
+  xy: 2, 18
+  size: 250, 283
+  orig: 250, 283
+  offset: 0, 0
+  index: -1
+1/glass_1
+  rotate: false
+  xy: 375, 2
+  size: 86, 47
+  orig: 88, 49
+  offset: 1, 1
+  index: -1
+1/glass_2
+  rotate: true
+  xy: 518, 480
+  size: 86, 47
+  orig: 88, 49
+  offset: 1, 1
+  index: -1
+1/glass_3
+  rotate: true
+  xy: 518, 304
+  size: 86, 47
+  orig: 88, 49
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 266, 283
+  size: 250, 283
+  orig: 250, 283
+  offset: 0, 0
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 270
+  size: 262, 296
+  orig: 269, 302
+  offset: 4, 3
+  index: -1
+die
+  rotate: false
+  xy: 287, 51
+  size: 230, 230
+  orig: 253, 253
+  offset: 12, 11
+  index: -1
+glass_1
+  rotate: false
+  xy: 287, 2
+  size: 86, 47
+  orig: 88, 49
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: false
+  xy: 463, 2
+  size: 86, 47
+  orig: 88, 49
+  offset: 1, 1
+  index: -1
+glass_3
+  rotate: true
+  xy: 518, 392
+  size: 86, 47
+  orig: 88, 49
+  offset: 1, 1
+  index: -1

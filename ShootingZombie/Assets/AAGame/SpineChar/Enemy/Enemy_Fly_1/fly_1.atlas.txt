@@ -1,0 +1,41 @@
+
+fly_1.png
+size: 520,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: false
+  xy: 2, 252
+  size: 370, 266
+  orig: 370, 266
+  offset: 0, 0
+  index: -1
+1/eye
+  rotate: false
+  xy: 501, 283
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+1/f_wing
+  rotate: true
+  xy: 374, 332
+  size: 186, 129
+  orig: 186, 129
+  offset: 0, 0
+  index: -1
+1/leg_1
+  rotate: false
+  xy: 444, 240
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+1/leg_2
+  rotate: true
+  xy: 374, 245
+  size: 85, 68
+  orig: 85, 68
+  offset: 0, 0
+  index: -1

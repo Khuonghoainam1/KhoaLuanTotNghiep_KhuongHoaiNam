@@ -1,0 +1,83 @@
+
+U.png
+size: 616,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: false
+  xy: 283, 2
+  size: 279, 298
+  orig: 279, 298
+  offset: 0, 0
+  index: -1
+1/glass_1
+  rotate: false
+  xy: 505, 327
+  size: 88, 53
+  orig: 90, 55
+  offset: 1, 1
+  index: -1
+1/glass_2
+  rotate: false
+  xy: 523, 504
+  size: 88, 53
+  orig: 90, 55
+  offset: 1, 1
+  index: -1
+1/glass_3
+  rotate: false
+  xy: 523, 394
+  size: 88, 53
+  orig: 90, 55
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 279, 298
+  orig: 279, 298
+  offset: 0, 0
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 302
+  size: 290, 310
+  orig: 298, 317
+  offset: 4, 3
+  index: -1
+die
+  rotate: false
+  xy: 294, 382
+  size: 227, 230
+  orig: 239, 253
+  offset: 1, 11
+  index: -1
+glass_1
+  rotate: false
+  xy: 415, 327
+  size: 88, 53
+  orig: 90, 55
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: false
+  xy: 523, 559
+  size: 88, 53
+  orig: 90, 55
+  offset: 1, 1
+  index: -1
+glass_3
+  rotate: false
+  xy: 523, 449
+  size: 88, 53
+  orig: 90, 55
+  offset: 1, 1
+  index: -1
+mouth_1
+  rotate: true
+  xy: 294, 321
+  size: 59, 119
+  orig: 61, 121
+  offset: 1, 1
+  index: -1

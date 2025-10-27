@@ -1,0 +1,90 @@
+
+lv4.png
+size: 968,968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_eye
+  rotate: false
+  xy: 715, 114
+  size: 61, 60
+  orig: 61, 61
+  offset: 0, 1
+  index: -1
+R_eye
+  rotate: false
+  xy: 629, 63
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 895, 816
+  size: 147, 46
+  orig: 147, 47
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 2, 471
+  size: 388, 492
+  orig: 389, 492
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 715, 449
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 341, 467
+  orig: 342, 468
+  offset: 1, 1
+  index: -1
+head_fake
+  rotate: false
+  xy: 392, 471
+  size: 367, 492
+  orig: 367, 492
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 345, 44
+  size: 146, 82
+  orig: 148, 86
+  offset: 2, 2
+  index: -1
+neck
+  rotate: false
+  xy: 761, 402
+  size: 132, 561
+  orig: 134, 563
+  offset: 1, 1
+  index: -1
+nose
+  rotate: false
+  xy: 493, 42
+  size: 134, 84
+  orig: 135, 86
+  offset: 0, 2
+  index: -1
+toilet2
+  rotate: false
+  xy: 345, 128
+  size: 368, 341
+  orig: 478, 585
+  offset: 86, 2
+  index: -1
+toilet3
+  rotate: false
+  xy: 715, 176
+  size: 213, 224
+  orig: 222, 369
+  offset: 5, 58
+  index: -1

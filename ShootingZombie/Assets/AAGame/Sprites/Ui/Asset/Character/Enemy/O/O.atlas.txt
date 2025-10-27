@@ -1,0 +1,125 @@
+
+O.png
+size: 844,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/body
+  rotate: false
+  xy: 313, 248
+  size: 297, 296
+  orig: 299, 298
+  offset: 1, 1
+  index: -1
+1/glass_1
+  rotate: false
+  xy: 2, 213
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+1/glass_2
+  rotate: false
+  xy: 2, 143
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 313, 546
+  size: 297, 296
+  orig: 299, 298
+  offset: 1, 1
+  index: -1
+body_die
+  rotate: false
+  xy: 2, 534
+  size: 309, 308
+  orig: 316, 315
+  offset: 3, 3
+  index: -1
+die
+  rotate: true
+  xy: 612, 615
+  size: 227, 230
+  orig: 239, 253
+  offset: 1, 11
+  index: -1
+effect
+  rotate: false
+  xy: 165, 371
+  size: 140, 161
+  orig: 141, 162
+  offset: 0, 1
+  index: -1
+glass_1
+  rotate: false
+  xy: 2, 91
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+glass_2
+  rotate: false
+  xy: 2, 178
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+wing_1
+  rotate: false
+  xy: 612, 452
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: false
+  xy: 612, 289
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_3
+  rotate: false
+  xy: 612, 126
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_4
+  rotate: true
+  xy: 2, 331
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_5
+  rotate: false
+  xy: 37, 168
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_6
+  rotate: true
+  xy: 240, 45
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_7
+  rotate: false
+  xy: 37, 5
+  size: 201, 161
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+wing_8
+  rotate: false
+  xy: 403, 85
+  size: 200, 161
+  orig: 202, 162
+  offset: 1, 0
+  index: -1

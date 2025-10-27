@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03cf5d61a84fa7e439784b1dfd4eef0b, type: 3}
+  m_Name: Drop_CollectMode
+  m_EditorClassIdentifier: 
+  levelDropPercent:
+  - percents:
+    - IDManhSung: 17
+      percent: 100
+    - IDManhSung: 18
+      percent: 0
+    - IDManhSung: 19
+      percent: 0
+    - IDManhSung: 20
+      percent: 0
+    - IDManhSung: 21
+      percent: 0
+    goldDrop: 500
+  - percents:
+    - IDManhSung: 17
+      percent: 80
+    - IDManhSung: 18
+      percent: 20
+    - IDManhSung: 19
+      percent: 0
+    - IDManhSung: 20
+      percent: 0
+    - IDManhSung: 21
+      percent: 0
+    goldDrop: 550
+  - percents:
+    - IDManhSung: 17
+      percent: 50
+    - IDManhSung: 18
+      percent: 20
+    - IDManhSung: 19
+      percent: 20
+    - IDManhSung: 20
+      percent: 10
+    - IDManhSung: 21
+      percent: 0
+    goldDrop: 630
+  - percents:
+    - IDManhSung: 17
+      percent: 45
+    - IDManhSung: 18
+      percent: 25
+    - IDManhSung: 19
+      percent: 25
+    - IDManhSung: 20
+      percent: 15
+    - IDManhSung: 21
+      percent: 5
+    goldDrop: 730
+  - percents:
+    - IDManhSung: 17
+      percent: 50
+    - IDManhSung: 18
+      percent: 27
+    - IDManhSung: 19
+      percent: 25
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 7
+    goldDrop: 850
+  - percents:
+    - IDManhSung: 17
+      percent: 50
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 27
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 7
+    goldDrop: 990
+  - percents:
+    - IDManhSung: 17
+      percent: 50
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 30
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 7
+    goldDrop: 1150
+  - percents:
+    - IDManhSung: 17
+      percent: 50
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 30
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 7
+    goldDrop: 1330
+  - percents:
+    - IDManhSung: 17
+      percent: 50
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 30
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 7
+    goldDrop: 1530
+  - percents:
+    - IDManhSung: 17
+      percent: 50
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 30
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 7
+    goldDrop: 1750
+  - percents:
+    - IDManhSung: 17
+      percent: 20
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 20
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 10
+    goldDrop: 1990
+  - percents:
+    - IDManhSung: 17
+      percent: 20
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 20
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 10
+    goldDrop: 2250
+  - percents:
+    - IDManhSung: 17
+      percent: 20
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 20
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 10
+    goldDrop: 2530
+  - percents:
+    - IDManhSung: 17
+      percent: 20
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 20
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 10
+    goldDrop: 2830
+  - percents:
+    - IDManhSung: 17
+      percent: 10
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 25
+    - IDManhSung: 20
+      percent: 25
+    - IDManhSung: 21
+      percent: 10
+    goldDrop: 3150
+  - percents:
+    - IDManhSung: 17
+      percent: 10
+    - IDManhSung: 18
+      percent: 30
+    - IDManhSung: 19
+      percent: 25
+    - IDManhSung: 20
+      percent: 25
+    - IDManhSung: 21
+      percent: 10
+    goldDrop: 3490
+  - percents:
+    - IDManhSung: 17
+      percent: 10
+    - IDManhSung: 18
+      percent: 25
+    - IDManhSung: 19
+      percent: 25
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 20
+    goldDrop: 3870
+  - percents:
+    - IDManhSung: 17
+      percent: 10
+    - IDManhSung: 18
+      percent: 25
+    - IDManhSung: 19
+      percent: 25
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 20
+    goldDrop: 4270
+  - percents:
+    - IDManhSung: 17
+      percent: 10
+    - IDManhSung: 18
+      percent: 25
+    - IDManhSung: 19
+      percent: 25
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 20
+    goldDrop: 4690
+  - percents:
+    - IDManhSung: 17
+      percent: 10
+    - IDManhSung: 18
+      percent: 25
+    - IDManhSung: 19
+      percent: 25
+    - IDManhSung: 20
+      percent: 20
+    - IDManhSung: 21
+      percent: 20
+    goldDrop: 5130

@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 724,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glass
+  rotate: false
+  xy: 165, 659
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 568
+  size: 144, 113
+  orig: 144, 113
+  offset: 0, 0
+  index: -1
+plane
+  rotate: false
+  xy: 2, 98
+  size: 720, 468
+  orig: 720, 468
+  offset: 0, 0
+  index: -1
+rotor_1
+  rotate: false
+  xy: 255, 649
+  size: 467, 73
+  orig: 467, 73
+  offset: 0, 0
+  index: -1
+rotor_2
+  rotate: false
+  xy: 2, 683
+  size: 161, 39
+  orig: 161, 39
+  offset: 0, 0
+  index: -1

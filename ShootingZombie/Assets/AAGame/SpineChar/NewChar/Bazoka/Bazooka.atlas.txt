@@ -1,0 +1,503 @@
+
+Bazooka.png
+size: 1080,1080
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_foot_fake
+  rotate: true
+  xy: 750, 200
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+R_leg1_fake
+  rotate: true
+  xy: 750, 26
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+R_leg2_fake
+  rotate: true
+  xy: 865, 52
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+bazooka_1_1
+  rotate: false
+  xy: 371, 950
+  size: 367, 128
+  orig: 367, 128
+  offset: 0, 0
+  index: -1
+bazooka_1_2
+  rotate: true
+  xy: 132, 580
+  size: 367, 128
+  orig: 367, 128
+  offset: 0, 0
+  index: -1
+bazooka_1_3
+  rotate: true
+  xy: 132, 211
+  size: 367, 128
+  orig: 367, 128
+  offset: 0, 0
+  index: -1
+bazooka_1_4
+  rotate: false
+  xy: 2, 949
+  size: 367, 129
+  orig: 367, 129
+  offset: 0, 0
+  index: -1
+bazooka_1_5
+  rotate: true
+  xy: 2, 210
+  size: 367, 128
+  orig: 367, 128
+  offset: 0, 0
+  index: -1
+bazooka_1_6
+  rotate: true
+  xy: 262, 580
+  size: 367, 128
+  orig: 367, 128
+  offset: 0, 0
+  index: -1
+bazooka_2_1
+  rotate: true
+  xy: 2, 579
+  size: 368, 128
+  orig: 368, 128
+  offset: 0, 0
+  index: -1
+char_minion/L_hand
+  rotate: false
+  xy: 914, 853
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_minion/R_foot
+  rotate: true
+  xy: 1041, 416
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+char_minion/R_hand
+  rotate: false
+  xy: 914, 773
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_minion/R_leg1
+  rotate: true
+  xy: 556, 2
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_minion/R_leg2
+  rotate: true
+  xy: 651, 2
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_minion/backpack
+  rotate: false
+  xy: 556, 51
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_minion/body
+  rotate: false
+  xy: 392, 672
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_minion/body_die
+  rotate: true
+  xy: 164, 8
+  size: 201, 187
+  orig: 201, 187
+  offset: 0, 0
+  index: -1
+char_minion/glass
+  rotate: false
+  xy: 750, 95
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+char_pikachu/L_hand
+  rotate: false
+  xy: 994, 758
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_wolverine/L_hand
+  rotate: false
+  xy: 994, 758
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_yellow/L_hand
+  rotate: false
+  xy: 994, 758
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_pikachu/R_foot
+  rotate: true
+  xy: 411, 249
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+char_yellow/R_foot
+  rotate: true
+  xy: 411, 249
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+char_pikachu/R_hand
+  rotate: false
+  xy: 991, 678
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_wolverine/R_hand
+  rotate: false
+  xy: 991, 678
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_yellow/R_hand
+  rotate: false
+  xy: 991, 678
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_pikachu/R_leg1
+  rotate: true
+  xy: 933, 933
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_yellow/R_leg1
+  rotate: true
+  xy: 933, 933
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_pikachu/R_leg2
+  rotate: true
+  xy: 865, 3
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_yellow/R_leg2
+  rotate: true
+  xy: 865, 3
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_pikachu/backpack
+  rotate: true
+  xy: 796, 389
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_yellow/backpack
+  rotate: true
+  xy: 796, 389
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_pikachu/body
+  rotate: false
+  xy: 570, 672
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_pikachu/body_die
+  rotate: false
+  xy: 353, 27
+  size: 201, 187
+  orig: 201, 187
+  offset: 0, 0
+  index: -1
+char_pooh/body_die
+  rotate: false
+  xy: 353, 27
+  size: 201, 187
+  orig: 201, 187
+  offset: 0, 0
+  index: -1
+char_shipper/body_die
+  rotate: false
+  xy: 353, 27
+  size: 201, 187
+  orig: 201, 187
+  offset: 0, 0
+  index: -1
+char_wolverine/body_die
+  rotate: false
+  xy: 353, 27
+  size: 201, 187
+  orig: 201, 187
+  offset: 0, 0
+  index: -1
+char_yellow/body_die
+  rotate: false
+  xy: 353, 27
+  size: 201, 187
+  orig: 201, 187
+  offset: 0, 0
+  index: -1
+char_pikachu/hair_1
+  rotate: false
+  xy: 718, 272
+  size: 76, 120
+  orig: 76, 120
+  offset: 0, 0
+  index: -1
+char_pikachu/hair_1_fake
+  rotate: true
+  xy: 933, 982
+  size: 96, 140
+  orig: 96, 140
+  offset: 0, 0
+  index: -1
+char_pikachu/hair_2
+  rotate: true
+  xy: 262, 231
+  size: 69, 147
+  orig: 69, 147
+  offset: 0, 0
+  index: -1
+char_pooh/L_hand
+  rotate: false
+  xy: 972, 598
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_pooh/R_foot
+  rotate: true
+  xy: 1041, 364
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+char_pooh/R_hand
+  rotate: false
+  xy: 972, 518
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_pooh/R_leg1
+  rotate: false
+  xy: 961, 214
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_pooh/R_leg2
+  rotate: false
+  xy: 1010, 214
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_pooh/backpack
+  rotate: true
+  xy: 796, 292
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_pooh/body
+  rotate: false
+  xy: 440, 394
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_pooh/hair_1
+  rotate: false
+  xy: 392, 615
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+char_pooh/hair_1_fake
+  rotate: true
+  xy: 914, 706
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+char_pooh/hair_2
+  rotate: false
+  xy: 972, 137
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+char_shipper/L_hand
+  rotate: false
+  xy: 961, 389
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_shipper/R_foot
+  rotate: true
+  xy: 718, 219
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+char_shipper/R_hand
+  rotate: false
+  xy: 961, 309
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+char_shipper/R_leg1
+  rotate: false
+  xy: 980, 42
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_shipper/R_leg2
+  rotate: false
+  xy: 1029, 42
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_shipper/backpack
+  rotate: true
+  xy: 796, 195
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_shipper/body
+  rotate: false
+  xy: 618, 394
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_shipper/hat
+  rotate: false
+  xy: 740, 956
+  size: 191, 122
+  orig: 191, 122
+  offset: 0, 0
+  index: -1
+char_wolverine/R_foot
+  rotate: false
+  xy: 1028, 955
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+char_wolverine/R_leg1
+  rotate: false
+  xy: 994, 838
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_wolverine/R_leg2
+  rotate: true
+  xy: 972, 469
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+char_wolverine/backpack
+  rotate: false
+  xy: 653, 51
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+char_wolverine/body
+  rotate: false
+  xy: 262, 302
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+char_wolverine/hat_1
+  rotate: true
+  xy: 2, 4
+  size: 204, 160
+  orig: 204, 160
+  offset: 0, 0
+  index: -1
+char_wolverine/hat_1_fake
+  rotate: true
+  xy: 796, 486
+  size: 218, 174
+  orig: 218, 174
+  offset: 0, 0
+  index: -1
+char_yellow/body
+  rotate: true
+  xy: 440, 216
+  size: 176, 276
+  orig: 176, 276
+  offset: 0, 0
+  index: -1
+glass_3
+  rotate: false
+  xy: 860, 121
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 353, 2
+  size: 110, 23
+  orig: 113, 25
+  offset: 1, 0
+  index: -1
+vent
+  rotate: true
+  xy: 748, 706
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1
